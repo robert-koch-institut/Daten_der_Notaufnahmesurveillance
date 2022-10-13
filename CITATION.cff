@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+type: dataset
+title: Notaufnahmesurveillance - Daten des Wochenberichts
+abstract: >-
+  Der Datensatz 'Notaufnahmesurveillance - Daten des Wochenberichts' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem AKTIN-Notaufnahmeregister (https://www.aktin.org/). Diese sind Teil der Notaufnahmesurveillance am Robert Koch-Institut und bilden die Grundlage für des Notaufnahmesurveillance Wochenberichts des RKI.
+date-released: '2022-10-12'
+keywords:
+  - Notaufnahmesurveillance
+  - Notaufnahmevorstellungen
+  - Syndromische Surveillance
+  - Syndromic Surveillance
+  - Sentinel-Ueberwachung
+  - Sentinel Surveillance
+  - Notfallambulanz, Krankenhaus-
+  - Hospital Emergency Services
+  - Patient Admission
+  - Patientenaufnahme
+  - Akute Krankheit
+  - Acute Disease
+  - Respiratory Tract Infections
+  - Atemwegsinfektionen
+  - Respiratory Distress Syndrome
+  - Atemnot-Syndrom
+  - International Classification of Diseases
+  - Internationale Klassifikation der Krankheiten
+  - ICD Code
+  - CEDIS
+  - SUMO
+  - AKTIN
+  - RKI
+  - Germany
+  - Deutschland
+  - Open Data
+message: Cite me!
+licence: CC-BY-4.0
+doi: 10.5281/zenodo.7189872
+authors:
+  - name: Robert Koch-Institut
+    affiliation: Robert Koch-Institut
+  - name: AKTIN-Notaufnahmeregister
+    affiliation: AKTIN-Notaufnahmeregister

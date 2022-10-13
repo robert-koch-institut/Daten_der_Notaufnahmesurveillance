@@ -1,0 +1,78 @@
+{
+  "title": "Notaufnahmesurveillance - Daten des Wochenberichts",
+  "description": "Der Datensatz 'Notaufnahmesurveillance - Daten des Wochenberichts' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem AKTIN-Notaufnahmeregister (https://www.aktin.org/). Diese sind  Teil der Notaufnahmesurveillance am Robert Koch-Institut und bilden die Grundlage für des <a href='https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/sumo/sumo.html'>Notaufnahmesurveillance Wochenberichts</a> des RKI.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Robert Koch-Institut",
+      "affiliation": "Robert Koch-Institut"
+    },
+	{
+      "name": "AKTIN-Notaufnahmeregister",
+      "affiliation": "AKTIN-Notaufnahmeregister"
+    }
+  ],
+  "keywords": [
+	"Notaufnahmesurveillance",
+	"Notaufnahmevorstellungen",
+	"Syndromische Surveillance",
+	"Syndromic Surveillance",
+	"Sentinel-Ueberwachung",
+	"Sentinel Surveillance",
+	"Notfallambulanz, Krankenhaus-",
+	"Hospital Emergency Services",
+	"Patient Admission",
+	"Patientenaufnahme",
+	"Akute Krankheit",
+	"Acute Disease",
+	"Respiratory Tract Infections",
+	"Atemwegsinfektionen", 
+	"Respiratory Distress Syndrome",
+	"Atemnot-Syndrom",
+	"International Classification of Diseases",
+	"Internationale Klassifikation der Krankheiten",
+	"ICD Code",
+	"CEDIS",
+	"SUMO",
+	"AKTIN",
+	"RKI",
+	"Germany",
+	"Deutschland",
+	"Open Data"
+  ],
+  "subjects": [
+    {
+      "term": "Gesundheitsberichterstattung",
+      "identifier": "info:ddc/22/de//614.42"
+    },
+    {
+      "term": "Epidemiologie",
+      "identifier": "info:ddc/22/de//614.4"
+    },
+    {
+      "term": "Public health surveillance",
+      "identifier": "info:ddc/22/eng//614.42"
+    },
+    {
+      "term": "Epidemiology",
+      "identifier": "info:ddc/22/eng//614.4"
+    }
+  ],
+  "publication_date": "2022-10-12T14:36:10+02:00",
+  "version": "2022-10-12",
+  "dates": [
+    {
+      "start": "2021-12-25",
+      "end": "2022-10-09",
+      "type": "Collected"
+    }
+  ]
+}
