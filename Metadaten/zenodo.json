@@ -15,38 +15,38 @@
       "name": "Robert Koch-Institut",
       "affiliation": "Robert Koch-Institut"
     },
-	{
+    {
       "name": "AKTIN-Notaufnahmeregister",
       "affiliation": "AKTIN-Notaufnahmeregister"
     }
   ],
   "keywords": [
-	"Notaufnahmesurveillance",
-	"Notaufnahmevorstellungen",
-	"Syndromische Surveillance",
-	"Syndromic Surveillance",
-	"Sentinel-Ueberwachung",
-	"Sentinel Surveillance",
-	"Notfallambulanz, Krankenhaus-",
-	"Hospital Emergency Services",
-	"Patient Admission",
-	"Patientenaufnahme",
-	"Akute Krankheit",
-	"Acute Disease",
-	"Respiratory Tract Infections",
-	"Atemwegsinfektionen", 
-	"Respiratory Distress Syndrome",
-	"Atemnot-Syndrom",
-	"International Classification of Diseases",
-	"Internationale Klassifikation der Krankheiten",
-	"ICD Code",
-	"CEDIS",
-	"SUMO",
-	"AKTIN",
-	"RKI",
-	"Germany",
-	"Deutschland",
-	"Open Data"
+    "Notaufnahmesurveillance",
+    "Notaufnahmevorstellungen",
+    "Syndromische Surveillance",
+    "Syndromic Surveillance",
+    "Sentinel-Ueberwachung",
+    "Sentinel Surveillance",
+    "Notfallambulanz, Krankenhaus-",
+    "Hospital Emergency Services",
+    "Patient Admission",
+    "Patientenaufnahme",
+    "Akute Krankheit",
+    "Acute Disease",
+    "Respiratory Tract Infections",
+    "Atemwegsinfektionen",
+    "Respiratory Distress Syndrome",
+    "Atemnot-Syndrom",
+    "International Classification of Diseases",
+    "Internationale Klassifikation der Krankheiten",
+    "ICD Code",
+    "CEDIS",
+    "SUMO",
+    "AKTIN",
+    "RKI",
+    "Germany",
+    "Deutschland",
+    "Open Data"
   ],
   "subjects": [
     {
@@ -66,13 +66,20 @@
       "identifier": "info:ddc/22/eng//614.4"
     }
   ],
-  "publication_date": "2022-10-12T14:36:10+02:00",
-  "version": "2022-10-12",
+  "publication_date": "2022-10-20T08:51:24+02:00",
+  "version": "2022-10-20",
   "dates": [
     {
       "start": "2021-12-25",
-      "end": "2022-10-09",
+      "end": "2022-10-20",
       "type": "Collected"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/robert-koch-institut/Notaufnahmesurveillance_Daten_des_Wochenberichts",
+      "resource_type": "dataset"
     }
   ]
 }
