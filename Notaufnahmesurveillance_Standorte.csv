@@ -21,7 +21,7 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 261420055,ELBLANDKLINIKUM Meißen,current quarter,51.174052457982995,13.505172774192,14,01
 261500289,Universitätsklinikum Magdeburg A.ö.R.,current quarter,52.129390677527,11.616833925182,15,03
 261500461,Carl-von-Basedow Klinikum Saalekreis gGmbH,current quarter,51.370392270886,11.60737538341,15,03
-261600736,Universitätsklinikum Jena,current quarter,50.885268754734,11.621468782358999,16,03
+261600736,Universitätsklinikum Jena,any quarter,50.885268754734,11.621468782358999,16,03
 900000001,"UKSH, Standort Lübeck",current quarter,53.836539,10.709323,01,03
 900000002,"UKSH, Standort Kiel",current quarter,54.330363,10.142063,01,03
 900000005,LMU Klinikum Großhadern,current quarter,48.110833,11.469444000000001,09,03
