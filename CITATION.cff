@@ -3,7 +3,7 @@ type: dataset
 title: Notaufnahmesurveillance - Daten des Wochenberichts
 abstract: >-
   Der Datensatz 'Notaufnahmesurveillance - Daten des Wochenberichts' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem AKTIN-Notaufnahmeregister (https://www.aktin.org/). Diese sind Teil der Notaufnahmesurveillance am Robert Koch-Institut und bilden die Grundlage für des Notaufnahmesurveillance Wochenberichts des RKI.
-date-released: '2022-11-02'
+date-released: '2023-01-01'
 keywords:
   - Notaufnahmesurveillance
   - Notaufnahmevorstellungen
