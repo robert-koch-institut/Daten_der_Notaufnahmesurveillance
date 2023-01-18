@@ -7,7 +7,7 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 260530012,Universitätsklinikum Aachen AöR,current quarter,50.811785567286,6.15920162214,05,03
 260720443,Krankenhaus der Barmherzigen Brüder Trier,any quarter,49.762079222289,6.640679597863,07,03
 260811502,Ostalb-Klinikum Aalen,current quarter,48.848839142222,10.084305524761,08,02
-260900134,Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH,any quarter,49.977267858552,9.187191367182,09,03
+260900134,Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH,current quarter,49.977267858552,9.187191367182,09,03
 260950077,Klinikum Fürth,current quarter,49.484503758062,10.974964678292,09,03
 260970219,Klinikum Memmingen,current quarter,47.982971923559,10.169085323819,09,03
 261101300,Helios Klinikum Berlin-Buch GmbH,current quarter,52.631418701813,13.511301755971,11,03
@@ -34,4 +34,4 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 900000006,LMU Klinikum Innenstadt,current quarter,48.13298,11.56193,09,03
 900000007,Klinikum Wolfsburg Pädiatrie,current quarter,52.41354,10.76794,03,03
 900000008,Pädiatrie UKSH Kiel,any quarter,54.32956,10.14113,01,03
-900000009,Pädiatrie UKSH Lübeck,any quarter,53.83402,10.70514,01,03
+900000009,Pädiatrie UKSH Lübeck,current quarter,53.83402,10.70514,01,03
