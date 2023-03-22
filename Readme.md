@@ -29,7 +29,7 @@ Ronny Otto<sup>3</sup>, Saskia Ehrentreich<sup>3</sup>, Rainer Röhrig<sup>4</su
 
 ---  
 
-Robert Koch-Institut und AKTIN-Notaufnahmeregister (2023): Notaufnahmesurveillance - Daten des Wochenberichts. DOI:[10.5281/zenodo.7735805](http://doi.org/10.5281/zenodo.7735805).
+Robert Koch-Institut und AKTIN-Notaufnahmeregister (2023): Notaufnahmesurveillance - Daten des Wochenberichts. DOI:[10.5281/zenodo.7758830](http://doi.org/10.5281/zenodo.7758830).
 
 
 
