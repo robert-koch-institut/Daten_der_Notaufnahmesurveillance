@@ -13,7 +13,7 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 260970219,Klinikum Memmingen,current quarter,47.982971923559,10.169085323819,09,03
 261101300,Helios Klinikum Berlin-Buch GmbH,current quarter,52.631418701813,13.511301755971,11,03
 261401416,Klinikum Chemnitz gGmbH,current quarter,50.603977338959,12.643454253657,14,03
-261500289,Universitätsklinikum Magdeburg A.ö.R.,any quarter,52.129390677527,11.616833925182,15,03
+261500289,Universitätsklinikum Magdeburg A.ö.R.,current quarter,52.129390677527,11.616833925182,15,03
 261600736,Universitätsklinikum Jena,any quarter,50.885268754734,11.621468782359,16,03
 260310209,Städtisches Klinikum Braunschweig gGmbH,current quarter,52.265036919724,10.507718520239,03,03
 260340034,Ubbo-Emmius-Klinik Aurich,current quarter,53.468256304166,7.497409290072,03,02
@@ -27,7 +27,7 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 260832299,Universitätsklinikum Freiburg,current quarter,48.005244748277,7.839340925129,08,03
 260911320,Klinikum Garmisch-Partenkirchen,current quarter,47.671590022337,11.219773683697,09,02
 260970015,Universitätsklinikum Augsburg,current quarter,48.384278099312,10.838583201162,09,03
-261401052,Universitätsklinikum Leipzig AöR,any quarter,51.331383154482,12.386209113038,14,03
+261401052,Universitätsklinikum Leipzig AöR,current quarter,51.331383154482,12.386209113038,14,03
 261420055,ELBLANDKLINIKUM Meißen,current quarter,51.174052457983,13.505172774192,14,01
 261500461,Carl-von-Basedow Klinikum Saalekreis gGmbH,current quarter,51.370392270886,11.60737538341,15,03
 900000001,"UKSH, Standort Lübeck",current quarter,53.836539,10.709323,01,03
