@@ -1,0 +1,219 @@
+{
+  "data": {
+    "type": "studyhub_resources",
+    "attributes": {
+      "commit_button": "Submit",
+      "content_blobs": [
+        {
+          "content_type": "text/html",
+          "url": "https://github.com/robert-koch-institut/Notaufnahmesurveillance_Daten_des_Wochenberichts",
+          "original_filename": "Github Link"
+        }
+      ],
+      "resource": {
+        "resource_type": "Dataset",
+        "resource_type_general": "Dataset",
+        "resource_titles": [
+          {
+            "title": "Notaufnahmesurveillance - Daten des Wochenberichts",
+            "title_language": "DE (German)"
+          }
+        ],
+        "resource_acronyms": [],
+        "resource_descriptions": [
+          {
+            "description": "Der Datensatz 'Notaufnahmesurveillance - Daten des Wochenberichts' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem AKTIN-Notaufnahmeregister (https://www.aktin.org/). Diese sind  Teil der Notaufnahmesurveillance am Robert Koch-Institut und bilden die Grundlage für des Notaufnahmesurveillance Wochenberichts (https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/sumo/sumo.html) des RKI.",
+            "description_language": "DE (German)"
+          }
+        ],
+        "resource_format": "",
+        "resource_keywords": [
+          {
+            "resource_keywords_label": "Notaufnahmesurveillance",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Notaufnahmevorstellungen",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Syndromische Surveillance",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Syndromic Surveillance",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Sentinel-Ueberwachung",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Sentinel Surveillance",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Notfallambulanz, Krankenhaus-",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Hospital Emergency Services",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Patient Admission",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Patientenaufnahme",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Akute Krankheit",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Acute Disease",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Respiratory Tract Infections",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Atemwegsinfektionen",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Respiratory Distress Syndrome",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Atemnot-Syndrom",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "International Classification of Diseases",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Internationale Klassifikation der Krankheiten",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "ICD Code",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "CEDIS",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "SUMO",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "AKTIN",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "RKI",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Germany",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Deutschland",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Open Data",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Gesundheitsberichterstattung",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Epidemiologie",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Public health surveillance",
+            "resource_keywords_label_code": ""
+          },
+          {
+            "resource_keywords_label": "Epidemiology",
+            "resource_keywords_label_code": ""
+          }
+        ],
+        "resource_language": [
+          "DE (German)"
+        ],
+        "resource_version": "2023-04-26",
+        "resource_web_page": "https://robert-koch-institut.github.io/Notaufnahmesurveillance_Daten_des_Wochenberichts/",
+        "resource_use_rights_label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)",
+        "resource_use_rights_description": "",
+        "resource_use_rights_authors_confirmation_1": true,
+        "resource_use_rights_authors_confirmation_2": true,
+        "resource_use_rights_authors_confirmation_3": true,
+        "resource_use_rights_support_by_licencing": true,
+        "provenance": {
+          "data_source": ""
+        },
+        "roles": [
+          {
+            "role_type": "Creator/Author",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_name": "Robert Koch-Institut",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Organisational",
+            "role_name_organisational": "Robert Koch-Institut"
+          },
+          {
+            "role_type": "Creator/Author",
+            "role_email": "",
+            "role_phone": "",
+            "role_affiliation_name": "AKTIN-Notaufnahmeregister",
+            "role_affiliation_address": "",
+            "role_affiliation_web_page": "",
+            "role_affiliation_identifiers": [],
+            "role_name_type": "Organisational",
+            "role_name_organisational": "AKTIN-Notaufnahmeregister"
+          }
+        ],
+        "ids": [
+          {
+            "id_identifier": "https://github.com/robert-koch-institut/Notaufnahmesurveillance_Daten_des_Wochenberichts",
+            "id_date": "",
+            "id_type": "URL",
+            "id_relation_type": "describes",
+            "id_resource_type_general": "Dataset"
+          },
+          {
+            "id_identifier": "10.5281/zenodo.7866035",
+            "id_date": "",
+            "id_type": "DOI",
+            "id_relation_type": "has part",
+            "id_resource_type_general": "Dataset"
+          }
+        ]
+      }
+    },
+    "relationships": {
+      "projects": {
+        "data": [
+          {
+            "id": "1",
+            "type": "projects"
+          }
+        ]
+      }
+    }
+  }
+}

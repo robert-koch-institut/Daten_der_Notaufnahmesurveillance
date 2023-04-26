@@ -1,15 +1,6 @@
 {
   "title": "Notaufnahmesurveillance - Daten des Wochenberichts",
-  "description": "Der Datensatz 'Notaufnahmesurveillance - Daten des Wochenberichts' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem AKTIN-Notaufnahmeregister (https://www.aktin.org/). Diese sind  Teil der Notaufnahmesurveillance am Robert Koch-Institut und bilden die Grundlage für des <a href='https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/sumo/sumo.html'>Notaufnahmesurveillance Wochenberichts</a> des RKI.",
-  "upload_type": "dataset",
-  "access_right": "open",
-  "license": "cc-by",
-  "language": "deu",
-  "communities": [
-    {
-      "identifier": "robertkochinstitut"
-    }
-  ],
+  "description": "Der Datensatz 'Notaufnahmesurveillance - Daten des Wochenberichts' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem AKTIN-Notaufnahmeregister (https://www.aktin.org/). Diese sind  Teil der Notaufnahmesurveillance am Robert Koch-Institut und bilden die Grundlage für des <a href=\"https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/sumo/sumo.html\">Notaufnahmesurveillance Wochenberichts</a> des RKI.",
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -20,6 +11,7 @@
       "affiliation": "AKTIN-Notaufnahmeregister"
     }
   ],
+  "contributors": [],
   "keywords": [
     "Notaufnahmesurveillance",
     "Notaufnahmevorstellungen",
@@ -48,6 +40,17 @@
     "Deutschland",
     "Open Data"
   ],
+  "publication_date": "2023-04-26",
+  "version": "2023-04-26",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
   "subjects": [
     {
       "term": "Gesundheitsberichterstattung",
@@ -66,20 +69,26 @@
       "identifier": "info:ddc/22/eng//614.4"
     }
   ],
-  "publication_date": "2023-04-26T08:00:07+02:00",
-  "version": "2023-04-26",
-  "dates": [
-    {
-      "start": "2021-12-25",
-      "end": "2023-04-26",
-      "type": "Collected"
-    }
-  ],
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
       "identifier": "https://github.com/robert-koch-institut/Notaufnahmesurveillance_Daten_des_Wochenberichts",
       "resource_type": "dataset"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/Notaufnahmesurveillance_Daten_des_Wochenberichts/blob/main/Readme.md",
+      "resource_type": "publication-report"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/robert-koch-institut/Notaufnahmesurveillance_Daten_des_Wochenberichts/blob/main/[Dokumentation]_Notaufnahmesurveillance_Daten_des_Wochenberichts.pdf",
+      "resource_type": "publication-report"
+    },
+    {
+      "relation": "isDescribedBy",
+      "identifier": "https://robert-koch-institut.github.io/Notaufnahmesurveillance_Daten_des_Wochenberichts/",
+      "resource_type": "other"
     }
   ]
 }

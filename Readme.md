@@ -28,10 +28,9 @@ Pauwelsstraße 30
 Ronny Otto<sup>3</sup>, Saskia Ehrentreich<sup>3</sup>, Rainer Röhrig<sup>4</sup>, Raphael Majeed<sup>4</sup>, Jonas Bienzeisler<sup>4</sup>, Alexander Kombeiz<sup>4</sup> und Lukas Triefenbach<sup>4</sup>
 
 ---  
+**Zitieren**  
 
-Robert Koch-Institut und AKTIN-Notaufnahmeregister (2023): Notaufnahmesurveillance - Daten des Wochenberichts. DOI:[10.5281/zenodo.7866035](http://doi.org/10.5281/zenodo.7866035).
-
-
+Robert Koch-Institut und AKTIN-Notaufnahmeregister (2023): Notaufnahmesurveillance - Daten des Wochenberichts. DOI:[10.5281/zenodo.7866035](http://doi.org/10.5281/zenodo.7866035).  
 
 ## Informationen zum Datensatz und Entstehungskontext  
 
