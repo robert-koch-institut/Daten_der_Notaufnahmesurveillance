@@ -27,7 +27,7 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 260832299,Universitätsklinikum Freiburg,current quarter,48.005244748277,7.839340925129,08,03
 260911320,Klinikum Garmisch-Partenkirchen,current quarter,47.671590022337,11.219773683697,09,02
 260970015,Universitätsklinikum Augsburg,current quarter,48.384278099312,10.838583201162,09,03
-261401052,Universitätsklinikum Leipzig AöR,current quarter,51.331383154482,12.386209113038,14,03
+261401052,Universitätsklinikum Leipzig AöR,any quarter,51.331383154482,12.386209113038,14,03
 261420055,ELBLANDKLINIKUM Meißen,current quarter,51.174052457983,13.505172774192,14,01
 261500461,Carl-von-Basedow Klinikum Saalekreis gGmbH,current quarter,51.370392270886,11.60737538341,15,03
 900000001,"UKSH, Standort Lübeck",current quarter,53.836539,10.709323,01,03
