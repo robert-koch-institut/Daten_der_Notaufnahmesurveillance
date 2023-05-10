@@ -9,7 +9,7 @@ abstract: >-
   Grundlage für des Notaufnahmesurveillance Wochenberichts
   (https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/sumo/sumo.html)
   des RKI.
-date-released: '2023-05-03'
+date-released: '2023-05-10'
 keywords:
   - Notaufnahmesurveillance
   - Notaufnahmevorstellungen
@@ -45,7 +45,7 @@ message: Cite me!
 url: >-
   https://robert-koch-institut.github.io/Notaufnahmesurveillance_Daten_des_Wochenberichts/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.7890426
+doi: 10.5281/zenodo.7918446
 authors:
   - name: Robert Koch-Institut
   - name: AKTIN-Notaufnahmeregister
