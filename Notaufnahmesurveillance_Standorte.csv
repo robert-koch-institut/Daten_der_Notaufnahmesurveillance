@@ -3,7 +3,7 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 260310378,Universitätsmedizin Göttingen,current quarter,51.550535752979,9.942435720004,03,03
 260310766,Klinikum Wolfsburg,current quarter,52.413656561464,10.769416809017,03,03
 260340773,Pius-Hospital Oldenburg,current quarter,53.143626813834,8.21041989333,03,02
-260340784,Evangelisches Krankenhaus Oldenburg,current quarter,53.142667947088,8.205731391972,03,02
+260340784,Evangelisches Krankenhaus Oldenburg,any quarter,53.142667947088,8.205731391972,03,02
 260530012,Universitätsklinikum Aachen AöR,current quarter,50.811785567286,6.15920162214,05,03
 260720443,Krankenhaus der Barmherzigen Brüder Trier,any quarter,49.762079222289,6.640679597863,07,03
 260811502,Ostalb-Klinikum Aalen,current quarter,48.848839142222,10.084305524761,08,02
