@@ -1,9 +1,9 @@
 ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
-260102081,Paracelsus Kinik Henstedt-Ulzburg,current quarter,53.749384805502,10.008263826403,01,01
+260102081,Paracelsus Kinik Henstedt-Ulzburg,any quarter,53.749384805502,10.008263826403,01,01
 260310378,Universitätsmedizin Göttingen,current quarter,51.550535752979,9.942435720004,03,03
-260310766,Klinikum Wolfsburg,current quarter,52.413656561464,10.769416809017,03,03
+260310766,Klinikum Wolfsburg,any quarter,52.413656561464,10.769416809017,03,03
 260340773,Pius-Hospital Oldenburg,current quarter,53.143626813834,8.21041989333,03,02
-260340784,Evangelisches Krankenhaus Oldenburg,any quarter,53.142667947088,8.205731391972,03,02
+260340784,Evangelisches Krankenhaus Oldenburg,current quarter,53.142667947088,8.205731391972,03,02
 260530012,Universitätsklinikum Aachen AöR,current quarter,50.811785567286,6.15920162214,05,03
 260720443,Krankenhaus der Barmherzigen Brüder Trier,any quarter,49.762079222289,6.640679597863,07,03
 260811502,Ostalb-Klinikum Aalen,current quarter,48.848839142222,10.084305524761,08,02
@@ -27,13 +27,13 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 260832299,Universitätsklinikum Freiburg,current quarter,48.005244748277,7.839340925129,08,03
 260911320,Klinikum Garmisch-Partenkirchen,current quarter,47.671590022337,11.219773683697,09,02
 260970015,Universitätsklinikum Augsburg,current quarter,48.384278099312,10.838583201162,09,03
-261401052,Universitätsklinikum Leipzig AöR,current quarter,51.331383154482,12.386209113038,14,03
+261401052,Universitätsklinikum Leipzig AöR,any quarter,51.331383154482,12.386209113038,14,03
 261420055,ELBLANDKLINIKUM Meißen,current quarter,51.174052457983,13.505172774192,14,01
 261500461,Carl-von-Basedow Klinikum Saalekreis gGmbH,current quarter,51.370392270886,11.60737538341,15,03
 900000001,"UKSH, Standort Lübeck",current quarter,53.836539,10.709323,01,03
 900000002,"UKSH, Standort Kiel",current quarter,54.330363,10.142063,01,03
 900000005,LMU Klinikum Großhadern,current quarter,48.110833,11.469444,09,03
 900000006,LMU Klinikum Innenstadt,current quarter,48.13298,11.56193,09,03
-900000007,Klinikum Wolfsburg Pädiatrie,current quarter,52.41354,10.76794,03,03
+900000007,Klinikum Wolfsburg Pädiatrie,any quarter,52.41354,10.76794,03,03
 900000008,Pädiatrie UKSH Kiel,current quarter,54.32956,10.14113,01,03
 900000009,Pädiatrie UKSH Lübeck,current quarter,53.83402,10.70514,01,03
