@@ -1,5 +1,5 @@
 ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
-260102081,Paracelsus Kinik Henstedt-Ulzburg,any quarter,53.749384805502,10.008263826403,01,01
+260102081,Paracelsus Kinik Henstedt-Ulzburg,current quarter,53.749384805502,10.008263826403,01,01
 260310378,Universitätsmedizin Göttingen,current quarter,51.550535752979,9.942435720004,03,03
 260310766,Klinikum Wolfsburg,current quarter,52.413656561464,10.769416809017,03,03
 260340773,Pius-Hospital Oldenburg,current quarter,53.143626813834,8.21041989333,03,02
@@ -22,10 +22,10 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 260510381,Universitätsklinikum Essen,current quarter,51.436266579469,6.989787407219,05,03
 260530283,Uniklinik Köln,any quarter,50.923308887945,6.917503255522,05,03
 260550131,Universitätsklinikum Münster,current quarter,51.954679948001,7.541815567138,05,03
-260811498,Klinikum Heidenheim,any quarter,48.672888376689,10.140581488618,08,03
-260831312,Schwarzwald-Baar Klinikum,any quarter,47.955672391613,8.480150878413,08,03
+260811498,Klinikum Heidenheim,current quarter,48.672888376689,10.140581488618,08,03
+260831312,Schwarzwald-Baar Klinikum,current quarter,47.955672391613,8.480150878413,08,03
 260832299,Universitätsklinikum Freiburg,current quarter,48.005244748277,7.839340925129,08,03
-260911320,Klinikum Garmisch-Partenkirchen,any quarter,47.671590022337,11.219773683697,09,02
+260911320,Klinikum Garmisch-Partenkirchen,current quarter,47.671590022337,11.219773683697,09,02
 260970015,Universitätsklinikum Augsburg,current quarter,48.384278099312,10.838583201162,09,03
 261401052,Universitätsklinikum Leipzig AöR,current quarter,51.331383154482,12.386209113038,14,03
 261420055,ELBLANDKLINIKUM Meißen,current quarter,51.174052457983,13.505172774192,14,01
