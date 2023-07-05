@@ -8,7 +8,7 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 260720443,Krankenhaus der Barmherzigen Brüder Trier,any quarter,49.762079222289,6.640679597863,07,03
 260811502,Ostalb-Klinikum Aalen,current quarter,48.848839142222,10.084305524761,08,02
 260812364,Klinikum Stuttgart,current quarter,48.783202666073,9.173708438857,08,03
-260900134,Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH,current quarter,49.977267858552,9.187191367182,09,03
+260900134,Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH,any quarter,49.977267858552,9.187191367182,09,03
 260950077,Klinikum Fürth,current quarter,49.484503758062,10.974964678292,09,03
 260970219,Klinikum Memmingen,current quarter,47.982971923559,10.169085323819,09,03
 261101300,Helios Klinikum Berlin-Buch GmbH,current quarter,52.631418701813,13.511301755971,11,03
@@ -24,10 +24,10 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 260550131,Universitätsklinikum Münster,current quarter,51.954679948001,7.541815567138,05,03
 260811498,Klinikum Heidenheim,current quarter,48.672888376689,10.140581488618,08,03
 260831312,Schwarzwald-Baar Klinikum,current quarter,47.955672391613,8.480150878413,08,03
-260832299,Universitätsklinikum Freiburg,any quarter,48.005244748277,7.839340925129,08,03
+260832299,Universitätsklinikum Freiburg,current quarter,48.005244748277,7.839340925129,08,03
 260911320,Klinikum Garmisch-Partenkirchen,current quarter,47.671590022337,11.219773683697,09,02
 260970015,Universitätsklinikum Augsburg,current quarter,48.384278099312,10.838583201162,09,03
-261401052,Universitätsklinikum Leipzig AöR,any quarter,51.331383154482,12.386209113038,14,03
+261401052,Universitätsklinikum Leipzig AöR,current quarter,51.331383154482,12.386209113038,14,03
 261420055,ELBLANDKLINIKUM Meißen,current quarter,51.174052457983,13.505172774192,14,01
 261500461,Carl-von-Basedow Klinikum Saalekreis gGmbH,current quarter,51.370392270886,11.60737538341,15,03
 900000001,"UKSH, Standort Lübeck",current quarter,53.836539,10.709323,01,03
@@ -37,3 +37,4 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 900000007,Klinikum Wolfsburg Pädiatrie,current quarter,52.41354,10.76794,03,03
 900000008,Pädiatrie UKSH Kiel,current quarter,54.32956,10.14113,01,03
 900000009,Pädiatrie UKSH Lübeck,current quarter,53.83402,10.70514,01,03
+900000010,Pädiatrie Klinikum Stuttgart,current quarter,48.7844,9.17245,08,03
