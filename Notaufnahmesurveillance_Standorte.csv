@@ -8,11 +8,11 @@ ik_number,ed_name,available,latitude,longitude,state_id,level_of_care_id
 260720443,Krankenhaus der Barmherzigen Brüder Trier,any quarter,49.762079222289,6.640679597863,07,03
 260811502,Ostalb-Klinikum Aalen,current quarter,48.848839142222,10.084305524761,08,02
 260812364,Klinikum Stuttgart,current quarter,48.783202666073,9.173708438857,08,03
-260900134,Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH,any quarter,49.977267858552,9.187191367182,09,03
+260900134,Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH,current quarter,49.977267858552,9.187191367182,09,03
 260950077,Klinikum Fürth,current quarter,49.484503758062,10.974964678292,09,03
 260970219,Klinikum Memmingen,current quarter,47.982971923559,10.169085323819,09,03
 261101300,Helios Klinikum Berlin-Buch GmbH,current quarter,52.631418701813,13.511301755971,11,03
-261401416,Klinikum Chemnitz gGmbH,current quarter,50.603977338959,12.643454253657,14,03
+261401416,Klinikum Chemnitz gGmbH,any quarter,50.603977338959,12.643454253657,14,03
 261500289,Universitätsklinikum Magdeburg A.ö.R.,current quarter,52.129390677527,11.616833925182,15,03
 261600736,Universitätsklinikum Jena,any quarter,50.885268754734,11.621468782359,16,03
 260310209,Städtisches Klinikum Braunschweig gGmbH,current quarter,52.265036919724,10.507718520239,03,03
