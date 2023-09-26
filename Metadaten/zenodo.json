@@ -1,6 +1,6 @@
 {
-  "title": "Notaufnahmesurveillance - Daten des Wochenberichts",
-  "description": "Der Datensatz 'Notaufnahmesurveillance - Daten des Wochenberichts' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem AKTIN-Notaufnahmeregister (https://www.aktin.org/). Diese sind  Teil der Notaufnahmesurveillance am Robert Koch-Institut und bilden die Grundlage für des <a href=\"https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/sumo/sumo.html\">Notaufnahmesurveillance Wochenberichts</a> des RKI.",
+  "title": "Daten der Notaufnahmesurveillance",
+  "description": "Der Datensatz 'Notaufnahmesurveillance' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem <a href=\"https://www.aktin.org/de-de/\">AKTIN-Notaufnahmeregister</a> und bildet die Grundlage für die <a href=\"https://www.rki.de/sumo\">Notaufnahmesurveillance</a> am RKI.",
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -40,8 +40,8 @@
     "Deutschland",
     "Open Data"
   ],
-  "publication_date": "2023-07-12",
-  "version": "2023-07-12",
+  "publication_date": "2023-09-26",
+  "version": "2023-09-26",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -69,25 +69,33 @@
       "identifier": "info:ddc/22/eng//614.4"
     }
   ],
+  "dates": [
+    {
+      "start": "2023-09-26T00:00:00+02:00",
+      "end": "2023-09-26T00:00:00+02:00",
+      "type": "Collected",
+      "description": "Date when the Dataset was created"
+    }
+  ],
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
-      "identifier": "https://github.com/robert-koch-institut/Notaufnahmesurveillance_Daten_des_Wochenberichts",
+      "identifier": "https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance",
       "resource_type": "dataset"
     },
     {
       "relation": "isDocumentedBy",
-      "identifier": "https://github.com/robert-koch-institut/Notaufnahmesurveillance_Daten_des_Wochenberichts/blob/main/Readme.md",
+      "identifier": "https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Readme.md",
       "resource_type": "publication-report"
     },
     {
       "relation": "isDocumentedBy",
-      "identifier": "https://github.com/robert-koch-institut/Notaufnahmesurveillance_Daten_des_Wochenberichts/blob/main/[Dokumentation]_Notaufnahmesurveillance_Daten_des_Wochenberichts.pdf",
+      "identifier": "https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/[Dokumentation]_Daten_der_Notaufnahmesurveillance.pdf",
       "resource_type": "publication-report"
     },
     {
       "relation": "isDescribedBy",
-      "identifier": "https://robert-koch-institut.github.io/Notaufnahmesurveillance_Daten_des_Wochenberichts/",
+      "identifier": "https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance/",
       "resource_type": "other"
     }
   ]

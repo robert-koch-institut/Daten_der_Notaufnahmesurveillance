@@ -1,0 +1,45 @@
+ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
+260102081	Paracelsus Kinik Henstedt-Ulzburg	central	Basisnotfallversorgung	Schleswig-Holstein	01	53.749384805502	10.008263826403
+260310209	Städtisches Klinikum Braunschweig gGmbH	central	Umfassende Versorgung	Niedersachsen	03	52.265036919724	10.507718520239
+260310378	Universitätsmedizin Göttingen	central	Umfassende Versorgung	Niedersachsen	03	51.550535752979	9.942435720004
+260310766	Klinikum Wolfsburg	central	Umfassende Versorgung	Niedersachsen	03	52.413656561464	10.769416809017
+260340034	Ubbo-Emmius-Klinik Aurich	central	Erweiterte Versorgung	Niedersachsen	03	53.468256304166	7.497409290072
+260340329	Klinikum Emden	central	Basisnotfallversorgung	Niedersachsen	03	53.375643708806	7.212860763057
+260340671	Ubbo-Emmius-Klinik Norden	central	Basisnotfallversorgung	Niedersachsen	03	53.600760522376	7.217868769712
+260340740	Klinikum Oldenburg AöR	central	Umfassende Versorgung	Niedersachsen	03	53.112105072622	8.217821824574
+260340773	Pius-Hospital Oldenburg	central	Erweiterte Versorgung	Niedersachsen	03	53.143626813834	8.21041989333
+260340784	Evangelisches Krankenhaus Oldenburg	central	Erweiterte Versorgung	Niedersachsen	03	53.142667947088	8.205731391972
+260510018	Universitätsklinikum Düsseldorf	central	Umfassende Notfallversorgung	Nordrhein-Westfalen	05	51.196351936376	6.789506149416
+260510381	Universitätsklinikum Essen	central	Umfassende Versorgung	Nordrhein-Westfalen	05	51.436266579469	6.989787407219
+260511565	Evangelisches Krankenhaus Wesel GmbH	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	51.660077377416	6.654883503979
+260530012	Universitätsklinikum Aachen AöR	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.811785567286	6.15920162214
+260530283	Uniklinik Köln	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.923308887945	6.917503255522
+260550131	Universitätsklinikum Münster	central	Umfassende Versorgung	Nordrhein-Westfalen	05	51.954679948001	7.541815567138
+260720443	Krankenhaus der Barmherzigen Brüder Trier	central	Umfassende Versorgung	Rheinland-Pfalz	07	49.762079222289	6.640679597863
+260811498	Kliniken Landkreis Heidenheim, Heidenheim an der Benz	central	Umfassende Versorgung	Baden-Württemberg	08	48.672888376689	10.140581488618
+260811502	Ostalb-Klinikum Aalen	central	Erweiterte Versorgung	Baden-Württemberg	08	48.848839142222	10.084305524761
+260812364	Klinikum Stuttgart	central	Umfassende Versorgung	Baden-Württemberg	08	48.783202666073	9.173708438857
+260831312	Schwarzwald-Baar-Klinikum, Villingen-Schwenningen	central	Umfassende Versorgung	Baden-Württemberg	08	47.955672391613	8.480150878413
+260832299	Universitätsklinikum Freiburg	central	Umfassende Versorgung	Baden-Württemberg	08	48.005244748277	7.839340925129
+260900134	Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH	central	Umfassende Versorgung	Bayern	09	49.977267858552	9.187191367182
+260911320	Klinikum Garmisch-Partenkirchen	central	Erweiterte Versorgung	Bayern	09	47.671590022337	11.219773683697
+260930608	Klinikum der Universität Regensburg (Universitätsklinikum Regensburg), AöR	central	Umfassende Versorgung	Bayern	09	48.987983204496	12.09049057954
+260950077	Klinikum Fürth	central	Umfassende Versorgung	Bayern	09	49.484503758062	10.974964678292
+260970015	Universitätsklinikum Augsburg	central	Umfassende Versorgung	Bayern	09	48.384278099312	10.838583201162
+260970219	Klinikum Memmingen	central	Umfassende Versorgung	Bayern	09	47.982971923559	10.169085323819
+261100855	Sankt Joseph Krankenhaus Berlin Tempelhof	central	Erweiterte Notfallversorgung	Berlin	11	52.478649289539	13.372827565454
+261101300	Helios Klinikum Berlin-Buch GmbH	central	Umfassende Versorgung	Berlin	11	52.631418701813	13.511301755971
+261401052	Universitätsklinikum Leipzig AöR	central	Umfassende Versorgung	Sachsen	14	51.331383154482	12.386209113038
+261401416	Klinikum Chemnitz gGmbH	central	Umfassende Versorgung	Sachsen	14	50.603977338959	12.643454253657
+261420055	ELBLANDKLINIKUM Meißen	central	Basisnotfallversorgung	Sachsen	14	51.174052457983	13.505172774192
+261500289	Universitätsklinikum Magdeburg A.ö.R.	central	Umfassende Versorgung	Sachsen-Anhalt	15	52.129390677527	11.616833925182
+261500461	Carl-von-Basedow Klinikum Saalekreis gGmbH	central	Umfassende Versorgung	Sachsen-Anhalt	15	51.370392270886	11.60737538341
+261600736	Universitätsklinikum Jena	central	Umfassende Versorgung	Thüringen	16	50.885268754734	11.621468782359
+900000001	UKSH	central	Umfassende Versorgung	Schleswig-Holstein	01	53.836539	10.709323
+900000002	UKSH, Standort Kiel	central	Umfassende Versorgung	Schleswig-Holstein	01	54.330363	10.142063
+900000005	LMU Klinikum Großhadern	central	Umfassende Versorgung	Bayern	09	48.110833	11.469444
+900000006	LMU Klinikum Innenstadt	central	Umfassende Versorgung	Bayern	09	48.13298	11.56193
+900000007	Klinikum Wolfsburg Pädiatrie	pediatric	Umfassende Versorgung	Niedersachsen	03	52.41354	10.76794
+900000008	Pädiatrie UKSH Kiel	pediatric	Umfassende Versorgung	Schleswig-Holstein	01	54.32956	10.14113
+900000009	Pädiatrie UKSH Lübeck	pediatric	Umfassende Versorgung	Schleswig-Holstein	01	53.83402	10.70514
+900000010	Pädiatrie Klinikum Stuttgart	pediatric	Umfassende Versorgung	Baden-Württemberg	08	48.7844	9.17245

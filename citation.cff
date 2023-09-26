@@ -1,15 +1,12 @@
 cff-version: 1.2.0
 type: dataset
-title: Notaufnahmesurveillance - Daten des Wochenberichts
+title: Daten der Notaufnahmesurveillance
 abstract: >-
-  Der Datensatz 'Notaufnahmesurveillance - Daten des Wochenberichts' enthält
-  aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher
-  Notaufnahmen aus dem AKTIN-Notaufnahmeregister (https://www.aktin.org/). Diese
-  sind  Teil der Notaufnahmesurveillance am Robert Koch-Institut und bilden die
-  Grundlage für des Notaufnahmesurveillance Wochenberichts
-  (https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/sumo/sumo.html)
-  des RKI.
-date-released: '2023-07-12'
+  Der Datensatz 'Notaufnahmesurveillance' enthält aggregierte Daten der
+  Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem
+  AKTIN-Notaufnahmeregister (https://www.aktin.org/de-de/) und bildet die
+  Grundlage für die Notaufnahmesurveillance (https://www.rki.de/sumo) am RKI.
+date-released: '2023-09-26'
 keywords:
   - Notaufnahmesurveillance
   - Notaufnahmevorstellungen
@@ -42,10 +39,10 @@ keywords:
   - Public health surveillance
   - Epidemiology
 message: Cite me!
-url: >-
-  https://robert-koch-institut.github.io/Notaufnahmesurveillance_Daten_des_Wochenberichts/
+url: https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.8137586
+doi: 10.5281/zenodo.8379823
+version: '2023-09-26T00:00:00+02:00'
 authors:
   - name: Robert Koch-Institut
   - name: AKTIN-Notaufnahmeregister
