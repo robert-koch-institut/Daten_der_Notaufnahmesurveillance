@@ -1,26 +1,26 @@
 Datensatzdokumentation
 # Daten der Notaufnahmesurveillance 
 
-**[Robert Koch-Institut | RKI](http://www.rki.de)**
-*<sup>1</sup> Fachgebiet 32 | Surveillance*
-*<sup>2</sup> Fachgebiet MF4 | Informations- und Forschungsdatenmanagement*
-Nordufer 20  
-13353 Berlin  
+**[Robert Koch-Institut | RKI](http://www.rki.de)**  
+*<sup>1</sup> Fachgebiet 32 | Surveillance*  
+*<sup>2</sup> Fachgebiet MF4 | Informations- und Forschungsdatenmanagement*  
+Nordufer 20    
+13353 Berlin    
 
 
-**[AKTIN-Notaufnahmeregister](http://aktin.org)**  
-*<sup>3</sup> AKTIN-Geschäftsstelle und TDAC*  
-c/o Otto-von-Guericke Universität Magdeburg  
-Universitätsklinik für Unfallchirurgie  
-Leipziger Straße 44  
-39120 Magdeburg  
+**[AKTIN-Notaufnahmeregister](http://aktin.org)**    
+*<sup>3</sup> AKTIN-Geschäftsstelle und TDAC*    
+c/o Otto-von-Guericke Universität Magdeburg    
+Universitätsklinik für Unfallchirurgie    
+Leipziger Straße 44    
+39120 Magdeburg    
 
 
-*<sup>4</sup> AKTIN-IT*  
-c/o Institut für medizinische Informatik  
-Uniklinik RWTH Aachen  
-Pauwelsstraße 30  
-52057 Aachen  
+*<sup>4</sup> AKTIN-IT*   
+c/o Institut für medizinische Informatik   
+Uniklinik RWTH Aachen   
+Pauwelsstraße 30   
+52057 Aachen   
 
 **Beitragende Personen**  
 
@@ -30,7 +30,7 @@ Ronny Otto<sup>3</sup>, Saskia Ehrentreich<sup>3</sup>, Rainer Röhrig<sup>4</su
 ---  
 **Zitieren**  
 
-Robert Koch-Institut, AKTIN-Notaufnahmeregister: Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.813758](https://doi.org/10.5281/zenodo.8379823).  
+Robert Koch-Institut, AKTIN-Notaufnahmeregister: Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.813758](https://doi.org/10.5281/zenodo.8406052).  
 
 
 
