@@ -1,6 +1,6 @@
 {
   "title": "Daten der Notaufnahmesurveillance",
-  "description": "Der Datensatz 'Notaufnahmesurveillance' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem <a href=\"https://www.aktin.org/de-de/\">AKTIN-Notaufnahmeregister</a> und bildet die Grundlage für die <a href=\"https://www.rki.de/sumo\">Notaufnahmesurveillance</a> am RKI.",
+  "description": "<p>Der Datensatz 'Notaufnahmesurveillance' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem <a href=\"https://www.aktin.org/de-de/\">AKTIN-Notaufnahmeregister</a> und bildet die Grundlage für die <a href=\"https://www.rki.de/sumo\">Notaufnahmesurveillance</a> am RKI.</p>\n",
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -40,8 +40,8 @@
     "Deutschland",
     "Open Data"
   ],
-  "publication_date": "2023-11-15",
-  "version": "2023-11-14",
+  "publication_date": "2024-01-24",
+  "version": "2024-01-24",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -71,8 +71,8 @@
   ],
   "dates": [
     {
-      "start": "2023-11-14T00:00:00+01:00",
-      "end": "2023-11-14T00:00:00+01:00",
+      "start": "2024-01-24T00:00:00+01:00",
+      "end": "2024-01-24T00:00:00+01:00",
       "type": "Collected",
       "description": "Date when the Dataset was created"
     }
