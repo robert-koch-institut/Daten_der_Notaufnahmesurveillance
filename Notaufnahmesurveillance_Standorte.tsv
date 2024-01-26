@@ -27,7 +27,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 261500289	Universitätsklinikum Magdeburg A.ö.R.	central	Umfassende Versorgung	Sachsen-Anhalt	15	52.129390677527	11.616833925182
 261500461	Carl-von-Basedow Klinikum Saalekreis gGmbH	central	Umfassende Versorgung	Sachsen-Anhalt	15	51.370392270886	11.60737538341
 261600736	Universitätsklinikum Jena	central	Umfassende Versorgung	Thüringen	16	50.885268754734	11.621468782359
-900000001	UKSH	central	Umfassende Versorgung	Schleswig-Holstein	01	53.836539	10.709323
+900000001	UKSH, Standort Lübeck	central	Umfassende Versorgung	Schleswig-Holstein	01	53.836539	10.709323
 900000002	UKSH, Standort Kiel	central	Umfassende Versorgung	Schleswig-Holstein	01	54.330363	10.142063
 900000005	LMU Klinikum Großhadern	central	Umfassende Versorgung	Bayern	09	48.110833	11.469444
 900000006	LMU Klinikum Innenstadt	central	Umfassende Versorgung	Bayern	09	48.13298	11.56193
@@ -36,11 +36,12 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 260831312	Schwarzwald-Baar-Klinikum, Villingen-Schwenningen	central	Umfassende Versorgung	Baden-Württemberg	08	47.955672391613	8.480150878413
 900000007	Klinikum Wolfsburg Pädiatrie	pediatric	Umfassende Versorgung	Niedersachsen	03	52.41354	10.76794
 260340034	Ubbo-Emmius-Klinik Aurich	central	Erweiterte Versorgung	Niedersachsen	03	53.468256304166	7.497409290072
-260340671	Ubbo-Emmius-Klinik Norden	central	Basisnotfallversorgung	Niedersachsen	03	53.600760522376	7.217868769712
+260340671	Ubbo-Emmius-Klinik Norden	central	Erweiterte Versorgung	Niedersachsen	03	53.600760522376	7.217868769712
 900000008	Pädiatrie UKSH Kiel	pediatric	Umfassende Versorgung	Schleswig-Holstein	01	54.32956	10.14113
 900000009	Pädiatrie UKSH Lübeck	pediatric	Umfassende Versorgung	Schleswig-Holstein	01	53.83402	10.70514
 900000010	Pädiatrie Klinikum Stuttgart	pediatric	Umfassende Versorgung	Baden-Württemberg	08	48.7844	9.17245
 260340329	Klinikum Emden	central	Basisnotfallversorgung	Niedersachsen	03	53.375643708806	7.212860763057
 260510018	Universitätsklinikum Düsseldorf	central	Umfassende Notfallversorgung	Nordrhein-Westfalen	05	51.196351936376	6.789506149416
-261100855	Sankt Joseph Krankenhaus Berlin Tempelhof	central	Erweiterte Notfallversorgung	Berlin	11	52.478649289539	13.372827565454
+261100855	Sankt Joseph Krankenhaus Berlin Tempelhof	central	Umfassende Notfallversorgung	Berlin	11	52.478649289539	13.372827565454
 900000014	Kindernotaufnahme Memmingen	pediatric	Umfassende Versorgung	Bayern	09	47.9828	10.16906
+261400687	Elblandklinikum Riesa	central	Basisnotfallversorgung	Sachsen	14	51.296177141949	13.310297012313
