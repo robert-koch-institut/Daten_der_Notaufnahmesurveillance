@@ -30,7 +30,7 @@ Ronny Otto<sup>3</sup>, Saskia Ehrentreich<sup>3</sup>, Rainer Röhrig<sup>4</su
 ---  
 **Zitieren**  
 
-Robert Koch-Institut, AKTIN-Notaufnahmeregister (2024): Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.105715688](https://doi.org/10.5281/zenodo.10571568).  
+Robert Koch-Institut, AKTIN-Notaufnahmeregister (2024): Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.105752988](https://doi.org/10.5281/zenodo.10575298).  
 
 
 
