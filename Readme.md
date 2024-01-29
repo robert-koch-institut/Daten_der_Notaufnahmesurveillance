@@ -54,16 +54,18 @@ Die Auswahl der Notaufnahmen basiert auf der individuellen Bereitschaft zur Teil
 
 ### Syndromdefinitionen  
 
-Die Syndromdefinition für grippeähnliche Erkrankungen (Influenza-like illness, ILI) basiert auf ICD-10-Diagnosen. Die Syndromdefinition für akute respiratorische Erkrankungen (ARE) basiert auf einer Auswahl CEDIS-PCL Vorstellungsgründen und ICD-10-Diagnosen, zur Definition schwerer akute respiratorische Infektionen (SARI) werden ICD-10-Diagnosen in Verbindung mit einer stationären Aufnahme berücksichtigt. Details dazu werden in [Boender et al. 2022](https://doi.org/10.2807/1560-7917.ES.2022.27.27.2100865) näher beschrieben.  
+Die Syndromdefinitionen für grippeähnliche Erkrankungen (Influenza-like illness, ILI) und Coronavirus Erkrankungen (COVID-19) basieren auf ICD-10-Diagnosen. Die Syndromdefinitionen für akute respiratorische Erkrankungen (ARE) und gastrointestinale Infektionen (GI) basieren auf einer Auswahl von CEDIS-PCL Vorstellungsgründen und ICD-10-Diagnosen. Zur Definition schwerer akuter respiratorischer Infektionen (SARI) werden ICD-10-Diagnosen in Verbindung mit einer stationären Aufnahme berücksichtigt. Details dazu werden in [Boender et al. 2022](https://doi.org/10.2807/1560-7917.ES.2022.27.27.2100865) und [Baum et al. 2023](https://doi.org/10.1101/2023.11.28.23298985) näher beschrieben.  
 
 >  Boender T. Sonia, Cai Wei, Schranz Madlen, Kocher Theresa, Wagner Birte, Ullrich Alexander, Buda Silke, Zöllner Rebecca, Greiner Felix, Diercke Michaela, Grabenhenrich Linus. Using routine emergency department data for syndromic surveillance of acute respiratory illness, Germany, week 10 2017 until week 10 2021. Euro Surveill. 2022;27(27):pii=2100865. DOI: [10.2807/1560-7917.ES.2022.27.27.2100865](https://doi.org/10.2807/1560-7917.ES.2022.27.27.2100865)  
+
+>  Jonathan Hans Josef Baum, Achim Dörre, Tamara Sonia Boender, Katharina Heldt, Hendrik Wilking, Susanne Drynda, Bernadett Erdmann, Rupert Grashey, Caroline Grupp, Kirsten Habbinga, Eckard Hamelmann, Amrei Heining, Heike Höger-Schmidt, Clemens Kill, Friedrich Reichert, Joachim Riße, Tobias Schilling, AKTIN Research Group, Madlen Schranz. Establishing syndromic surveillance of gastrointestinal infections in emergency departments using routine emergency department data and validating it against laboratory-based surveillance, Germany, January 2019 – June 2023. medRxiv 2023.11.28.23298985. DOI: [10.1101/2023.11.28.23298985](https://doi.org/10.1101/2023.11.28.23298985)  
 
 ### Berechnung des relativen Anteils  
 
 Alle identifizierten Fälle der jeweiligen Syndrome werden als relativer Anteil dargestellt, der Nenner berechnet sich dabei individuell je Syndrom: die Fallzahlen werden anteilig an den Notaufnahmevorstellungen berechnet, die vollständige Angaben zu jenen Variablen haben, die Teil der Syndromdefinition sind (bspw. werden für die Berechnung des relativen Anteils der ARE-Fälle alle Vorstellungen berücksichtigt, die entweder Angaben zur ICD-10-Diagnose oder zum CEDIS-PCL Vorstellungsgrund haben). Innerhalb der Filterkategorien für Altersgruppe und Notaufnahmetyp ergibt sich der Nenner jeweils aus der gewählten Filterkombination (bspw. werden bei Auswahl der Gruppe „80+“ nur Vorstellungen dieser Altersgruppe im Nenner berücksichtigt).   
 
 ### Berechnung des Erwartungswertes  
-Für jede Syndromdefinition sowie Filtermöglichkeit (Altersgruppe und Notaufnahmetyp) wird ein Erwartungswert des relativen Anteils und ein zugehöriges 80% Prädiktionsintervall berechnet. Der Erwartungswert wird mit Hilfe eines Negativ-Binomial Regressionsmodells auf der Zeitreihe der relativen Anteile berechnet und berücksichtigt die jährliche Saisonalität mittels Sinus-/Cosinus-Funktionen. Das Prädiktionsintervall wird wie von [Noufaily 2012](https://doi.org/10.1002/sim.5595) beschrieben berechnet. Als Referenzzeitraum für die Berechnung werden die jeweiligen Daten ab 01.01.2019 und bis 365 Tage vor dem aktuellen Berichtsdatum verwendet (bspw. entspricht der Referenzzeitraum am 23.08.2023 dem Zeitraum von 01.01.2019 bis 23.08.2022).  
+Für jede Syndromdefinition sowie Filtermöglichkeit (Altersgruppe und Notaufnahmetyp) wird ein Erwartungswert des relativen Anteils und ein zugehöriges 80% Prädiktionsintervall berechnet. Der Erwartungswert wird mit Hilfe eines Negativ-Binomial Regressionsmodells auf der Zeitreihe der relativen Anteile berechnet und berücksichtigt die jährliche Saisonalität mittels Sinus-/Cosinus-Funktionen. Das Prädiktionsintervall wird wie von [Noufaily 2012](https://doi.org/10.1002/sim.5595) beschrieben berechnet. Als Referenzzeitraum für die Berechnung werden die jeweiligen Daten ab 01.01.2019 und bis 365 Tage vor dem aktuellen Berichtsdatum verwendet (bspw. entspricht der Referenzzeitraum am 23.08.2023 dem Zeitraum von 01.01.2019 bis 23.08.2022). Für die Darstellung der Notaufnahmevorstellungen mit COVID-19 wird aktuell auf die Berechnung eines Erwartungswertes verzichtet, da hierfür gegenwärtig noch nicht genug retrospektive Daten zur Verfügung stehen.  
 
 
 ### Interpretation der Daten  
@@ -102,7 +104,7 @@ Variable | Typ | Ausprägung | Erläuterung
 -------- | -------- | -------- | --------
 ik_number   | Text   | `260102081`, ... | ID der Notaufnahme
 ed_name   | Text   | `Paracelsus Kinik Henstedt-Ulzburg`, .. | Name der Notaufnahme
-ed_type   | Text   | `central`, `pediatric`   | Notaufnahmetyp (_central_: Zentrale Notaufnahme, _pediatric_: Kindernotaufnahme)
+ed_type   | Text   | `central`, `pediatric`   | Notaufnahmetyp (`central`: Zentrale Notaufnahme, `pediatric`: Kindernotaufnahme)
 level_of_care  | Text   | `Basisnotfallversorgung`, `Erweiterte Versorgung`, `Umfassende Versorgung` | [Versorgungsstufe](https://www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf) der Notaufnahme (deutsch)
 state  | Text   | `Schleswig-Holstein`, ... `Thüringen` | Bundesland (deutsch) 
 state_id  | Text   | `01`, ..., `16` | [Länderschlüssel](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel) des Bundeslandes 
@@ -125,7 +127,8 @@ Die Datei [`Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv`](https://github.com
 Variable | Typ | Ausprägung | Erläuterung
 -------- | -------- | -------- | --------
 date   | Text   | `JJJJ-MM-TT` | Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag
-ed_type   | Text   | `all`,`central`, `pediatric`   | Notaufnahmetyp (_all_: alle Notaufnahmen, _central_: Zentrale Notaufnahme, _pediatric_: Kindernotaufnahme)
+ed_type   | Text   | `all`,`central`, `pediatric`   | Notaufnahmetyp (`all`: alle Notaufnahmen, `central`: Zentrale Notaufnahme, _pediatric_: Kindernotaufnahme)
+age_group   | Text   |  `00+`, `0-4`, `5-9`, `10-14`, `15-19`, `20-39`, `40-59`, `60-79`, `80+`  | Altersgruppe (`00+`: alle Altersgruppen, `0-4`: 0-4 Jahre, ...)
 syndrome   | Text   | `ARI`, `SARI`, `ILI` | Falldefinitionen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI), siehe [Boender et al. 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS)
 relative_cases   | Dezimalzahl   | `≥0` | Relativer Anteil Notaufnahmevorstellungen an diesem Tag mit gegebenem Syndrom an allen Notaufnahmevorstellungen in gegebenen Notaufnahmen von gegebenem Typ 
 relative_cases_7day_ma   | Dezimalzahl   | `≥0.0` | Gleitender 7-Tage Durchschnitt des relativen Anteil von Fällen des Syndroms an den Gesamtvorstellungen
