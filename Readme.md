@@ -1,26 +1,26 @@
 Datensatzdokumentation
 # Daten der Notaufnahmesurveillance 
 
-**[Robert Koch-Institut | RKI](http://www.rki.de)**  
-*<sup>1</sup> Fachgebiet 32 | Surveillance*  
-*<sup>2</sup> Fachgebiet MF4 | Informations- und Forschungsdatenmanagement*  
-Nordufer 20    
-13353 Berlin    
+**[Robert Koch-Institut | RKI](http://www.rki.de)**
+*<sup>1</sup> Fachgebiet 32 | Surveillance*
+*<sup>2</sup> Fachgebiet MF4 | Informations- und Forschungsdatenmanagement*
+Nordufer 20  
+13353 Berlin  
 
 
-**[AKTIN-Notaufnahmeregister](http://aktin.org)**    
-*<sup>3</sup> AKTIN-Geschäftsstelle und TDAC*    
-c/o Otto-von-Guericke Universität Magdeburg    
-Universitätsklinik für Unfallchirurgie    
-Leipziger Straße 44    
-39120 Magdeburg    
+**[AKTIN-Notaufnahmeregister](http://aktin.org)**  
+*<sup>3</sup> AKTIN-Geschäftsstelle und TDAC*  
+c/o Otto-von-Guericke Universität Magdeburg  
+Universitätsklinik für Unfallchirurgie  
+Leipziger Straße 44  
+39120 Magdeburg  
 
 
-*<sup>4</sup> AKTIN-IT*   
-c/o Institut für medizinische Informatik   
-Uniklinik RWTH Aachen   
-Pauwelsstraße 30   
-52057 Aachen   
+*<sup>4</sup> AKTIN-IT*  
+c/o Institut für medizinische Informatik  
+Uniklinik RWTH Aachen  
+Pauwelsstraße 30  
+52057 Aachen  
 
 **Beitragende Personen**  
 
@@ -30,7 +30,7 @@ Ronny Otto<sup>3</sup>, Saskia Ehrentreich<sup>3</sup>, Rainer Röhrig<sup>4</su
 ---  
 **Zitieren**  
 
-Robert Koch-Institut, AKTIN-Notaufnahmeregister (2024): Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.106314488](https://doi.org/10.5281/zenodo.10631448).  
+Robert Koch-Institut, AKTIN-Notaufnahmeregister: Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.813758](https://doi.org/10.5281/zenodo.8137586).  
 
 
 
@@ -113,12 +113,12 @@ longitude   | Dezimalzahl   | `≥0.0` | Längengrad des Standorts der Notaufnah
 
 
 
-### Notaufnahmevorstellungen für ausgewählte Falldefinitionen  
+### Notaufnahmevorstellungen für ausgewählte Syndromdefinitionen  
 
-Wie im Abschnitt [Falldefinitionen](#Falldefinitionen) beschrieben, werden die Notaufnahmevorstellungen derzeit nach akuten respiratorischen Erkrankungen (ARE) schweren akuten respiratorischen Infektionen (SARI) und grippeähnlichen Erkrankungen (ILI) unterschieden.   
+Wie im Abschnitt [Syndromdefinitionen](#Syndromdefinitionen) beschrieben, werden die Notaufnahmevorstellungen derzeit nach akuten respiratorischen Erkrankungen (ARE), schweren akuten respiratorischen Infektionen (SARI),  grippeähnlichen Erkrankungen (ILI), Coronavirus Erkrankungen (COVID-19) und gastrointestinalen Infektionen (GI) unterschieden.   
 
 
-Die Datei [`Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv`](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv)" enthält die Anzahl der Notaufnahmevorstellungen und den berechneten Erwartungswert der Anteile der Falldefinitionen an den Gesamtvorstellungen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI).  
+Die Datei [`Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv`](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv)" enthält die Anzahl der Notaufnahmevorstellungen und den berechneten Erwartungswert der Anteile der Fälle an den Gesamtvorstellungen für die oben aufgelisteten Syndromdefinitionen.  
 
 > [Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv)  
 
@@ -129,7 +129,7 @@ Variable | Typ | Ausprägung | Erläuterung
 date   | Text   | `JJJJ-MM-TT` | Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag
 ed_type   | Text   | `all`,`central`, `pediatric`   | Notaufnahmetyp (`all`: alle Notaufnahmen, `central`: Zentrale Notaufnahme, _pediatric_: Kindernotaufnahme)
 age_group   | Text   |  `00+`, `0-4`, `5-9`, `10-14`, `15-19`, `20-39`, `40-59`, `60-79`, `80+`  | Altersgruppe (`00+`: alle Altersgruppen, `0-4`: 0-4 Jahre, ...)
-syndrome   | Text   | `ARI`, `SARI`, `ILI` | Falldefinitionen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI), siehe [Boender et al. 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS)
+syndrome   | Text   | `ARI`, `SARI`, `ILI`, `COVID-19`, `GI` | Syndromdefinitionen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI), siehe [Boender et al. 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS). Für gastrointestinale Infektionen (GI) siehe [Baum et al. 2023](https://doi.org/10.1101/2023.11.28.23298985).
 relative_cases   | Dezimalzahl   | `≥0` | Relativer Anteil Notaufnahmevorstellungen an diesem Tag mit gegebenem Syndrom an allen Notaufnahmevorstellungen in gegebenen Notaufnahmen von gegebenem Typ 
 relative_cases_7day_ma   | Dezimalzahl   | `≥0.0` | Gleitender 7-Tage Durchschnitt des relativen Anteil von Fällen des Syndroms an den Gesamtvorstellungen
 expected_value   | Dezimalzahl   | `≥0.0` | Erwartungswert des relativen Anteils von Fällen des Syndroms an den Gesamtvorstellungen
