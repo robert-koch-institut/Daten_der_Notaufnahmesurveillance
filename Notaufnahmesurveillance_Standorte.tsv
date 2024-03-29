@@ -41,8 +41,8 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000009	Pädiatrie UKSH Lübeck	pediatric	Umfassende Versorgung	Schleswig-Holstein	01	53.83402	10.70514
 900000010	Pädiatrie Klinikum Stuttgart	pediatric	Umfassende Versorgung	Baden-Württemberg	08	48.7844	9.17245
 260340329	Klinikum Emden	central	Basisnotfallversorgung	Niedersachsen	03	53.375643708806	7.212860763057
-260510018	Universitätsklinikum Düsseldorf	central	Umfassende Notfallversorgung	Nordrhein-Westfalen	05	51.196351936376	6.789506149416
-261100855	Sankt Joseph Krankenhaus Berlin Tempelhof	central	Umfassende Notfallversorgung	Berlin	11	52.478649289539	13.372827565454
+260510018	Universitätsklinikum Düsseldorf	central	Umfassende Versorgung	Nordrhein-Westfalen	05	51.196351936376	6.789506149416
+261100855	Sankt Joseph Krankenhaus Berlin Tempelhof	central	Umfassende Versorgung	Berlin	11	52.478649289539	13.372827565454
 900000012	Charite Campus Benjamin Franklin	central	Umfassende Versorgung	Berlin	11	52.44156	13.32046
 900000014	Kindernotaufnahme Memmingen	pediatric	Umfassende Versorgung	Bayern	09	47.9828	10.16906
 261400687	Elblandklinikum Riesa	central	Basisnotfallversorgung	Sachsen	14	51.296177141949	13.310297012313
