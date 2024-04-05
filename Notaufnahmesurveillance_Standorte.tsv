@@ -47,3 +47,4 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000014	Kindernotaufnahme Memmingen	pediatric	Umfassende Versorgung	Bayern	09	47.9828	10.16906
 261400687	Elblandklinikum Riesa	central	Basisnotfallversorgung	Sachsen	14	51.296177141949	13.310297012313
 261400870	Elblandklinikum Radebeul	central	Basisnotfallversorgung	Sachsen	14	51.108144839837	13.651184320434
+261500553	BG Klinikum Bergmannstrost Halle	central	Erweiterte Versorgung	Sachsen-Anhalt	15	51.460257513815	11.984916687143
