@@ -1,36 +1,32 @@
 Datensatzdokumentation
 # Daten der Notaufnahmesurveillance 
 
-**[Robert Koch-Institut | RKI](http://www.rki.de)**
-*<sup>1</sup> Fachgebiet 32 | Surveillance*
-*<sup>2</sup> Fachgebiet MF4 | Informations- und Forschungsdatenmanagement*
+**[Robert Koch-Institut | RKI](http://www.rki.de)**  
 Nordufer 20  
 13353 Berlin  
 
-
-**[AKTIN-Notaufnahmeregister](http://aktin.org)**  
-*<sup>3</sup> AKTIN-Geschäftsstelle und TDAC*  
+**[AKTIN-Notaufnahmeregister](http://aktin.org)**   
 c/o Otto-von-Guericke Universität Magdeburg  
-Universitätsklinik für Unfallchirurgie  
 Leipziger Straße 44  
 39120 Magdeburg  
 
-
-*<sup>4</sup> AKTIN-IT*  
-c/o Institut für medizinische Informatik  
-Uniklinik RWTH Aachen  
-Pauwelsstraße 30  
-52057 Aachen  
+<br>  
 
 **Beitragende Personen**  
 
-[Michaela Diercke](https://orcid.org/0000-0002-4678-1813)<sup>1</sup>, [Madlen Schranz](https://orcid.org/0000-0002-2426-5770)<sup>1</sup>, [Birte Wagner](https://orcid.org/0000-0002-5725-3020)<sup>1</sup>, [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)<sup>1</sup>, [Linus Grabenhenrich](https://orcid.org/0000-0002-9300-6625)<sup>2</sup>, [Theresa Kocher](https://orcid.org/0000-0002-9300-6625)<sup>2</sup>, Felix Walcher<sup>3</sup>, Wiebke Schirrmeister<sup>3</sup>, Susanne Drynda<sup>3</sup>
-Ronny Otto<sup>3</sup>, Saskia Ehrentreich<sup>3</sup>, Rainer Röhrig<sup>4</sup>, Raphael Majeed<sup>4</sup>, Jonas Bienzeisler<sup>4</sup>, Alexander Kombeiz<sup>4</sup> und Lukas Triefenbach<sup>4</sup>  
+[Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1;, [Madlen Schranz](https://orcid.org/0000-0002-2426-5770)&sup1;, [Birte Wagner](https://orcid.org/0000-0002-5725-3020)&sup1;, [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1;, [Linus Grabenhenrich](https://orcid.org/0000-0002-9300-6625)&sup2;, [Theresa Kocher](https://orcid.org/0000-0002-9300-6625)&sup2;, Felix Walcher&sup3;, Wiebke Schirrmeister&sup3;, Susanne Drynda&sup3;, Ronny Otto&sup3;, Saskia Ehrentreich&sup3;, Rainer Röhrig&#8308;, Raphael Majeed&#8308;, Jonas Bienzeisler&#8308;, Alexander Kombeiz&#8308; und Lukas Triefenbach&#8308;    
+
+&emsp;&sup1; Robert Koch-Institut | Fachgebiet 32  
+&emsp;&sup2; Robert Koch-Institut | Fachgebiet MF4   
+&emsp;&sup3; Otto-von-Guericke Universität Magdeburg | Medizinische Fakultät   
+&emsp;&#8308; Universitätsklinik RWTH Aachen | Institut für medizinische Informatik   
+
 
 ---  
+
 **Zitieren**  
 
-Robert Koch-Institut, AKTIN-Notaufnahmeregister: Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.813758](https://doi.org/10.5281/zenodo.12758744).  
+Robert Koch-Institut, AKTIN-Notaufnahmeregister (**2024**): Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.813758](https://doi.org/10.5281/zenodo.12772544).  
 
 
 
@@ -155,14 +151,14 @@ Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Di
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/zenodo.json)  
 
-In der zenodo.json ist neben der Publikationsdatum (`"publication_date"`) auch der Datenstand enthalten:  
+In der zenodo.json ist neben der Publikationsdatum (`"publication_date"`) auch der Datenstand in folgendem Format enthalten (Beispiel):  
 
 ```
   "dates": [
     {
       "start": "2023-09-11T15:00:21+02:00",
       "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
+      "type": "Created",
       "description": "Date when the Dataset was created"
     }
   ],
@@ -179,7 +175,7 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
  
 ### Lizenz  
 
-Der Datensatz "Daten der Notaufnahmesurveillance" ist lizenziert unter  der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
+Der Datensatz "Abwassersurveillance AMELAG" ist lizenziert unter  der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
 Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/LIZENZ) Datei des Datensatzes.  
 
