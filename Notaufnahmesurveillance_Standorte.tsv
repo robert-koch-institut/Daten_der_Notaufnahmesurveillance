@@ -21,6 +21,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 260970015	Universitätsklinikum Augsburg	central	Umfassende Versorgung	Bayern	09	48.384278099312	10.838583201162
 260970219	Klinikum Memmingen	central	Umfassende Versorgung	Bayern	09	47.982971923559	10.169085323819
 261101300	Helios Klinikum Berlin-Buch GmbH	central	Umfassende Versorgung	Berlin	11	52.631418701813	13.511301755971
+261300152	Universitätsmedizin Greifswald - Körperschaft des öffentlichen Rechts	central	Umfassende Versorgung	Mecklenburg-Vorpommern	13	54.091538647698	13.365766167608
 261401052	Universitätsklinikum Leipzig AöR	central	Umfassende Versorgung	Sachsen	14	51.331383154482	12.386209113038
 261401416	Klinikum Chemnitz gGmbH	central	Umfassende Versorgung	Sachsen	14	50.603977338959	12.643454253657
 261420055	ELBLANDKLINIKUM Meißen	central	Basisnotfallversorgung	Sachsen	14	51.174052457983	13.505172774192
