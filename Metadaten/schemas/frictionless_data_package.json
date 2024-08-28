@@ -1,0 +1,25 @@
+{
+  "name": "daten_der_notaufnahmesurveillance",
+  "title": "Daten_der_Notaufnahmesurveillance",
+  "description": "Frictionless data package. This package lists and describes all data files in this open data repository. For more information on frictionless data, see https://specs.frictionlessdata.io/ and https://framework.frictionlessdata.io/.",
+  "resources": [
+    {
+      "name": "notaufnahmesurveillance_standorte",
+      "type": "table",
+      "path": "../../Notaufnahmesurveillance_Standorte.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_Notaufnahmesurveillance_Standorte.json"
+    },
+    {
+      "name": "notaufnahmesurveillance_zeitreihen_syndrome",
+      "type": "table",
+      "path": "../../Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json"
+    }
+  ]
+}

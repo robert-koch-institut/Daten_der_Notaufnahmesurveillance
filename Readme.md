@@ -96,16 +96,16 @@ Die Datei [`Notaufnahmesurveillance_Standorte.tsv`](https://github.com/robert-ko
 
 #### Variablen und Variablenausprägung  
 
-Variable | Typ | Ausprägung | Erläuterung
--------- | -------- | -------- | --------
-ik_number   | Text   | `260102081`, ... | ID der Notaufnahme
-ed_name   | Text   | `Paracelsus Kinik Henstedt-Ulzburg`, .. | Name der Notaufnahme
-ed_type   | Text   | `central`, `pediatric`   | Notaufnahmetyp (`central`: Zentrale Notaufnahme, `pediatric`: Kindernotaufnahme)
-level_of_care  | Text   | `Basisnotfallversorgung`, `Erweiterte Versorgung`, `Umfassende Versorgung` | [Versorgungsstufe](https://www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf) der Notaufnahme (deutsch)
-state  | Text   | `Schleswig-Holstein`, ... `Thüringen` | Bundesland (deutsch) 
-state_id  | Text   | `01`, ..., `16` | [Länderschlüssel](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel) des Bundeslandes 
-latitude   | Dezimalzahl   | `≥0.0` | Breitengrad des Standorts der Notaufnahme
-longitude   | Dezimalzahl   | `≥0.0` | Längengrad des Standorts der Notaufnahme
+| Variable | Typ | Ausprägung | Erläuterung |
+| -------- | -------- | -------- | -------- |
+| ik_number   | Text   | `260102081`, ... | ID der Notaufnahme |
+| ed_name   | Text   | `Paracelsus Kinik Henstedt-Ulzburg`, .. | Name der Notaufnahme |
+| ed_type   | Text   | `central`, `pediatric`   | Notaufnahmetyp (`central`: Zentrale Notaufnahme, `pediatric`: Kindernotaufnahme) |
+| level_of_care  | Text   | `Basisnotfallversorgung`, `Erweiterte Versorgung`, `Umfassende Versorgung` | [Versorgungsstufe](https://www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf) der Notaufnahme (deutsch) |
+| state  | Text   | `Schleswig-Holstein`, ... `Thüringen` | Bundesland (deutsch) |
+| state_id  | Text   | `01`, ..., `16` | [Länderschlüssel](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel) des Bundeslandes |
+| latitude   | Dezimalzahl   | `≥0.0` | Breitengrad des Standorts der Notaufnahme |
+| longitude   | Dezimalzahl   | `≥0.0` | Längengrad des Standorts der Notaufnahme |
 
 
 
@@ -120,18 +120,18 @@ Die Datei [`Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv`](https://github.com
 
 #### Variablen und Variablenausprägung
 
-Variable | Typ | Ausprägung | Erläuterung
--------- | -------- | -------- | --------
-date   | Text   | `JJJJ-MM-TT` | Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag
-ed_type   | Text   | `all`,`central`, `pediatric`   | Notaufnahmetyp (`all`: alle Notaufnahmen, `central`: Zentrale Notaufnahme, _pediatric_: Kindernotaufnahme)
-age_group   | Text   |  `00+`, `0-4`, `5-9`, `10-14`, `15-19`, `20-39`, `40-59`, `60-79`, `80+`  | Altersgruppe (`00+`: alle Altersgruppen, `0-4`: 0-4 Jahre, ...)
-syndrome   | Text   | `ARI`, `SARI`, `ILI`, `COVID`, `GI` | Syndromdefinitionen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI), siehe [Boender et al. 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS). Für gastrointestinale Infektionen (GI) siehe [Baum et al. 2023](https://doi.org/10.1101/2023.11.28.23298985).
-relative_cases   | Dezimalzahl   | `≥0` | Relativer Anteil Notaufnahmevorstellungen an diesem Tag mit gegebenem Syndrom an allen Notaufnahmevorstellungen in gegebenen Notaufnahmen von gegebenem Typ 
-relative_cases_7day_ma   | Dezimalzahl   | `≥0.0` | Gleitender 7-Tage Durchschnitt des relativen Anteil von Fällen des Syndroms an den Gesamtvorstellungen
-expected_value   | Dezimalzahl   | `≥0.0` oder `NA` | Erwartungswert des relativen Anteils von Fällen des Syndroms an den Gesamtvorstellungen
-expected_lowerbound   | Dezimalzahl   | `≥0.0` oder `NA` | Untere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts
-expected_upperbound  | Dezimalzahl   | `≥0.0` oder `NA` | Obere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts 
-ed_count  | Ganze Zahl   | `≥0` | Anzahl von eingeschlossenen Notaufnahmen an diesem Tag in den Notaufnahmen vom gegebenen Notaufnahmetyp
+| Variable | Typ | Ausprägung | Erläuterung |
+| -------- | -------- | -------- | -------- |
+| date   | Text   | `JJJJ-MM-TT` | Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag |
+| ed_type   | Text   | `all`,`central`, `pediatric`   | Notaufnahmetyp (`all`: alle Notaufnahmen, `central`: Zentrale Notaufnahme, _pediatric_: Kindernotaufnahme) |
+| age_group   | Text   |  `00+`, `0-4`, `5-9`, `10-14`, `15-19`, `20-39`, `40-59`, `60-79`, `80+`  | Altersgruppe (`00+`: alle Altersgruppen, `0-4`: 0-4 Jahre, ...) |
+| syndrome   | Text   | `ARI`, `SARI`, `ILI`, `COVID`, `GI` | Syndromdefinitionen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI), siehe [Boender et al. 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS). Für gastrointestinale Infektionen (GI) siehe [Baum et al. 2023](https://doi.org/10.1101/2023.11.28.23298985). |
+| relative_cases   | Dezimalzahl   | `≥0` | Relativer Anteil Notaufnahmevorstellungen an diesem Tag mit gegebenem Syndrom an allen Notaufnahmevorstellungen in gegebenen Notaufnahmen von gegebenem Typ |
+| relative_cases_7day_ma   | Dezimalzahl   | `≥0.0` | Gleitender 7-Tage Durchschnitt des relativen Anteil von Fällen des Syndroms an den Gesamtvorstellungen |
+| expected_value   | Dezimalzahl   | `≥0.0` oder `NA` | Erwartungswert des relativen Anteils von Fällen des Syndroms an den Gesamtvorstellungen |
+| expected_lowerbound   | Dezimalzahl   | `≥0.0` oder `NA` | Untere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts |
+| expected_upperbound  | Dezimalzahl   | `≥0.0` oder `NA` | Obere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts |
+| ed_count  | Ganze Zahl   | `≥0` | Anzahl von eingeschlossenen Notaufnahmen an diesem Tag in den Notaufnahmen vom gegebenen Notaufnahmetyp |
 
 ### Formatierung der Daten  
 

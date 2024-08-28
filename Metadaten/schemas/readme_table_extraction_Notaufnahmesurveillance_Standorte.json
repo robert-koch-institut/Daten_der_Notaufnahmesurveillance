@@ -1,0 +1,63 @@
+{
+  "fields": [
+    {
+      "name": "ik_number",
+      "type": "string",
+      "description": "ID der Notaufnahme"
+    },
+    {
+      "name": "ed_name",
+      "type": "string",
+      "description": "Name der Notaufnahme"
+    },
+    {
+      "name": "ed_type",
+      "type": "string",
+      "description": "Notaufnahmetyp (`central`: Zentrale Notaufnahme, `pediatric`: Kindernotaufnahme)",
+      "constraints": {
+        "enum": [
+          "central",
+          "pediatric"
+        ]
+      }
+    },
+    {
+      "name": "level_of_care",
+      "type": "string",
+      "description": "[Versorgungsstufe](https://www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf) der Notaufnahme (deutsch)",
+      "constraints": {
+        "enum": [
+          "Basisnotfallversorgung",
+          "Erweiterte Versorgung",
+          "Umfassende Versorgung"
+        ]
+      }
+    },
+    {
+      "name": "state",
+      "type": "string",
+      "description": "Bundesland (deutsch)"
+    },
+    {
+      "name": "state_id",
+      "type": "string",
+      "description": "[Länderschlüssel](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel) des Bundeslandes"
+    },
+    {
+      "name": "latitude",
+      "type": "number",
+      "description": "Breitengrad des Standorts der Notaufnahme",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "longitude",
+      "type": "number",
+      "description": "Längengrad des Standorts der Notaufnahme",
+      "constraints": {
+        "minimum": 0
+      }
+    }
+  ]
+}
