@@ -1,0 +1,91 @@
+{
+  "fields": [
+    {
+      "name": "date",
+      "type": "date"
+    },
+    {
+      "name": "ed_type",
+      "type": "string",
+      "constraints": {
+        "enum": [
+          "all",
+          "central",
+          "pediatric"
+        ]
+      }
+    },
+    {
+      "name": "age_group",
+      "type": "string",
+      "constraints": {
+        "enum": [
+          "00+",
+          "0-4",
+          "5-9",
+          "10-14",
+          "15-19",
+          "20-39",
+          "40-59",
+          "60-79",
+          "80+"
+        ]
+      }
+    },
+    {
+      "name": "syndrome",
+      "type": "string",
+      "constraints": {
+        "enum": [
+          "ARI",
+          "SARI",
+          "ILI",
+          "COVID",
+          "GI"
+        ]
+      }
+    },
+    {
+      "name": "relative_cases",
+      "type": "number",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "relative_cases_7day_ma",
+      "type": "number",
+      "missingValues": [
+        "NA"
+      ]
+    },
+    {
+      "name": "expected_value",
+      "type": "number",
+      "missingValues": [
+        "NA"
+      ]
+    },
+    {
+      "name": "expected_lowerbound",
+      "type": "number",
+      "missingValues": [
+        "NA"
+      ]
+    },
+    {
+      "name": "expected_upperbound",
+      "type": "number",
+      "missingValues": [
+        "NA"
+      ]
+    },
+    {
+      "name": "ed_count",
+      "type": "integer",
+      "constraints": {
+        "minimum": 0
+      }
+    }
+  ]
+}

@@ -3,17 +3,20 @@
     {
       "name": "ik_number",
       "type": "string",
-      "description": "ID der Notaufnahme"
+      "constraints": {
+        "pattern": "[0-9]*"
+      }
     },
     {
       "name": "ed_name",
       "type": "string",
-      "description": "Name der Notaufnahme"
+      "constraints": {
+        "required": true
+      }
     },
     {
       "name": "ed_type",
       "type": "string",
-      "description": "Notaufnahmetyp (`central`: Zentrale Notaufnahme, `pediatric`: Kindernotaufnahme)",
       "constraints": {
         "enum": [
           "central",
@@ -24,7 +27,6 @@
     {
       "name": "level_of_care",
       "type": "string",
-      "description": "[Versorgungsstufe](https://www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf) der Notaufnahme (deutsch)",
       "constraints": {
         "enum": [
           "Basisnotfallversorgung",
@@ -36,7 +38,6 @@
     {
       "name": "state",
       "type": "string",
-      "description": "Bundesland (deutsch)",
       "constraints": {
         "enum": [
           "Baden-Württemberg",
@@ -61,32 +62,13 @@
     {
       "name": "state_id",
       "type": "string",
-      "description": "[Länderschlüssel](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel) des Bundeslandes",
       "constraints": {
-        "enum": [
-          "01",
-          "02",
-          "03",
-          "04",
-          "05",
-          "06",
-          "07",
-          "08",
-          "09",
-          "10",
-          "11",
-          "12",
-          "13",
-          "14",
-          "15",
-          "16"
-        ]
+        "pattern": "0[1-9]{1}|1[0-6]{1}"
       }
     },
     {
       "name": "latitude",
       "type": "number",
-      "description": "Breitengrad des Standorts der Notaufnahme",
       "constraints": {
         "minimum": 0
       }
@@ -94,7 +76,6 @@
     {
       "name": "longitude",
       "type": "number",
-      "description": "Längengrad des Standorts der Notaufnahme",
       "constraints": {
         "minimum": 0
       }

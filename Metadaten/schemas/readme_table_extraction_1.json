@@ -2,7 +2,7 @@
   "fields": [
     {
       "name": "date",
-      "type": "string",
+      "type": "date",
       "description": "Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag",
       "format": "%Y-%m-%d"
     },
@@ -62,6 +62,9 @@
       "name": "relative_cases_7day_ma",
       "type": "number",
       "description": "Gleitender 7-Tage Durchschnitt des relativen Anteil von Fällen des Syndroms an den Gesamtvorstellungen",
+      "missingValues": [
+        "NA"
+      ],
       "constraints": {
         "minimum": 0
       }

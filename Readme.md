@@ -122,12 +122,12 @@ Die Datei [`Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv`](https://github.com
 
 | Variable | Typ | Ausprägung | Erläuterung |
 | -------- | -------- | -------- | -------- |
-| date   | Text   | `JJJJ-MM-TT` | Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag |
+| date   | Datum   | `JJJJ-MM-TT` | Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag |
 | ed_type   | Text   | `all`,`central`, `pediatric`   | Notaufnahmetyp (`all`: alle Notaufnahmen, `central`: Zentrale Notaufnahme, _pediatric_: Kindernotaufnahme) |
 | age_group   | Text   |  `00+`, `0-4`, `5-9`, `10-14`, `15-19`, `20-39`, `40-59`, `60-79`, `80+`  | Altersgruppe (`00+`: alle Altersgruppen, `0-4`: 0-4 Jahre, ...) |
 | syndrome   | Text   | `ARI`, `SARI`, `ILI`, `COVID`, `GI` | Syndromdefinitionen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI), siehe [Boender et al. 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS). Für gastrointestinale Infektionen (GI) siehe [Baum et al. 2023](https://doi.org/10.1101/2023.11.28.23298985). |
 | relative_cases   | Dezimalzahl   | `≥0` | Relativer Anteil Notaufnahmevorstellungen an diesem Tag mit gegebenem Syndrom an allen Notaufnahmevorstellungen in gegebenen Notaufnahmen von gegebenem Typ |
-| relative_cases_7day_ma   | Dezimalzahl   | `≥0.0` | Gleitender 7-Tage Durchschnitt des relativen Anteil von Fällen des Syndroms an den Gesamtvorstellungen |
+| relative_cases_7day_ma   | Dezimalzahl   | `≥0.0` oder `NA` | Gleitender 7-Tage Durchschnitt des relativen Anteil von Fällen des Syndroms an den Gesamtvorstellungen |
 | expected_value   | Dezimalzahl   | `≥0.0` oder `NA` | Erwartungswert des relativen Anteils von Fällen des Syndroms an den Gesamtvorstellungen |
 | expected_lowerbound   | Dezimalzahl   | `≥0.0` oder `NA` | Untere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts |
 | expected_upperbound  | Dezimalzahl   | `≥0.0` oder `NA` | Obere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts |

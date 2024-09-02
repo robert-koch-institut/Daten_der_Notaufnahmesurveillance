@@ -3,7 +3,8 @@
     {
       "name": "date",
       "type": "date",
-      "description": "Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag"
+      "description": "Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag",
+      "format": "%Y-%m-%d"
     },
     {
       "name": "ed_type",
