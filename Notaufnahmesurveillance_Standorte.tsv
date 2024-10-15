@@ -51,3 +51,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 261400687	Elblandklinikum Riesa	central	Basisnotfallversorgung	Sachsen	14	51.296177141949	13.310297012313
 261400870	Elblandklinikum Radebeul	central	Basisnotfallversorgung	Sachsen	14	51.108144839837	13.651184320434
 261500553	BG Klinikum Bergmannstrost Halle	central	Erweiterte Versorgung	Sachsen-Anhalt	15	51.460257513815	11.984916687143
+260820466	Universitätsklinikum Heidelberg	central	Umfassende Versorgung	Baden-Württemberg	08	49.409500294287	8.685672998363
+260590071	Katholisches Klinikum Bochum	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	51.493922507533	7.228267908031
+900000018	Vivantes Humboldt-Klinikum 	central	Umfassende Versorgung	Berlin	11	52.5899636949553	13.3075036519882
+260610359	Sana Klinikum Offenbach	central	Umfassende Versorgung	Hessen	06	50.094192075512	8.756854444764
