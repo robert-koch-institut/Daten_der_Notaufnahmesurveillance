@@ -26,7 +26,7 @@ Leipziger Straße 44
 
 **Zitieren**  
 
-Robert Koch-Institut, AKTIN-Notaufnahmeregister (**2024**): Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.813758](https://doi.org/10.5281/zenodo.13950949).  
+Robert Koch-Institut, AKTIN-Notaufnahmeregister (**2024**): Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.813758](https://doi.org/10.5281/zenodo.13954833).  
 
 
 
