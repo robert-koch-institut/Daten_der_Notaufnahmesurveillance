@@ -6,7 +6,7 @@ abstract: >-
   Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem
   AKTIN-Notaufnahmeregister (https://www.aktin.org/de-de/) und bildet die
   Grundlage für die Notaufnahmesurveillance (https://www.rki.de/sumo) am RKI.
-date-released: '2024-10-21'
+date-released: '2024-10-22'
 keywords:
   - Notaufnahmesurveillance
   - Notaufnahmevorstellungen
@@ -41,8 +41,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.13960434
-version: '2024-10-21T00:00:00+02:00'
+doi: 10.5281/zenodo.13970047
+version: '2024-10-22T00:00:00+02:00'
 authors:
   - name: Robert Koch-Institut
   - name: AKTIN-Notaufnahmeregister
