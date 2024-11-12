@@ -3,10 +3,7 @@
     {
       "name": "ik_number",
       "type": "string",
-      "description": "ID der Notaufnahme",
-      "constraints": {
-        "pattern": "[0-9]*"
-      }
+      "description": "ID der Notaufnahme"
     },
     {
       "name": "ed_name",

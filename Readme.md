@@ -90,9 +90,9 @@ Die Daten werden täglich mit Daten bis einschließlich dem Vorvortag aktualisie
 
 ### Standortdaten eingeschlossener Notaufnahmen   
 
-Die Datei [`Notaufnahmesurveillance_Standorte.tsv`](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Standorte.csv) enthält die Standort- und Metainformationen aller  angeschlossenen Notaufnahmen, wie die IK-Nummer, den Namen, die Koordinaten und das Bundesland sowie die Versorgungsstufe und den Notaufnahmetyp jeder Notaufnahme.  
+Die Datei [`Notaufnahmesurveillance_Standorte.tsv`](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Standorte.tsv) enthält die Standort- und Metainformationen aller  angeschlossenen Notaufnahmen, wie die IK-Nummer, den Namen, die Koordinaten und das Bundesland sowie die Versorgungsstufe und den Notaufnahmetyp jeder Notaufnahme.  
 
-> [Notaufnahmesurveillance_Standorte.tsv](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Standorte.csv)  
+> [Notaufnahmesurveillance_Standorte.tsv](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Standorte.tsv)  
 
 #### Variablen und Variablenausprägung  
 
