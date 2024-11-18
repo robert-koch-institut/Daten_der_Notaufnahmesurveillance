@@ -1,0 +1,26 @@
+{
+  "name": "10.5281/zenodo.7189871",
+  "title": "Daten der Notaufnahmesurveillance",
+  "description": "Diese Datei gibt eine Übersicht über alle Datensätze in diesem Open Data Repository. Informationen zum Frictionless Data Standard finden Sie unter https://specs.frictionlessdata.io/ und https://framework.frictionlessdata.io/. Mehr Information über diesen Datensatz finden sie auf Zenodo (https://doi.org/10.5281/zenodo.7189871) oder Github (https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance)",
+  "homepage": "https://doi.org/10.5281/zenodo.7189871",
+  "resources": [
+    {
+      "name": "notaufnahmesurveillance_standorte",
+      "type": "table",
+      "path": "../Notaufnahmesurveillance_Standorte.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "schemas/frictionless_data_schema_Notaufnahmesurveillance_Standorte.json"
+    },
+    {
+      "name": "notaufnahmesurveillance_zeitreihen_syndrome",
+      "type": "table",
+      "path": "../Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "schemas/frictionless_data_schema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json"
+    }
+  ]
+}
