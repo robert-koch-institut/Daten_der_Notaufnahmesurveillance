@@ -96,9 +96,15 @@ Die Datei [`Notaufnahmesurveillance_Standorte.tsv`](https://github.com/robert-ko
 
 #### Variablen und Variablenausprägung  
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Notaufnahmesurveillance_Standorte", "lang": "de"} -->
+
+Die Datei [Notaufnahmesurveillance_Standorte.tsv](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Standorte.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_Notaufnahmesurveillance_Standorte.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/frictionless_data_schema_Notaufnahmesurveillance_Standorte.json) hinterlegt:
+> [frictionless_data_schema_Notaufnahmesurveillance_Standorte.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/frictionless_data_schema_Notaufnahmesurveillance_Standorte.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
 | Variable      | Typ    | Ausprägungen                                                                                    | Beschreibung                                                                                                                   |
 |:--------------|:-------|:------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| ik_number     | string | Format: siehe Datenschemadatei (Link direkt nach dieser Tabelle)                                | ID der Notaufnahme                                                                                                             |
+| ik_number     | string |                                                                                                 | ID der Notaufnahme                                                                                                             |
 | ed_name       | string | Eintrag kann nicht leer sein                                                                    | Name der Notaufnahme                                                                                                           |
 | ed_type       | string | Werte: `central`, `pediatric`                                                                   | Notaufnahmetyp (`central`: Zentrale Notaufnahme, `pediatric`: Kindernotaufnahme)                                               |
 | level_of_care | string | Werte: `Basisnotfallversorgung`, `Erweiterte Versorgung`, `Umfassende Versorgung`               | [Versorgungsstufe](https://www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf) der Notaufnahme (deutsch) |
@@ -107,11 +113,14 @@ Die Datei [`Notaufnahmesurveillance_Standorte.tsv`](https://github.com/robert-ko
 | latitude      | number | Werte: ≥0                                                                                       | Breitengrad des Standorts der Notaufnahme                                                                                      |
 | longitude     | number | Werte: ≥0                                                                                       | Längengrad des Standorts der Notaufnahme                                                                                       |
 
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 
 
-Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_Notaufnahmesurveillance_Standorte.json`](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/frictionless_data_schema_Notaufnahmesurveillance_Standorte.json).
+
 
 
 
@@ -127,6 +136,12 @@ Die Datei [`Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv`](https://github.com
 
 #### Variablen und Variablenausprägung
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Notaufnahmesurveillance_Zeitreihen_Syndrome", "lang": "de"} -->
+
+Die Datei [Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/frictionless_data_schema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json) hinterlegt:
+> [frictionless_data_schema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/frictionless_data_schema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
 | Variable               | Typ     | Ausprägungen                                                      | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |:-----------------------|:--------|:------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | date                   | date    | Format: `YYYY-MM-DD`                                              | Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag                                                                                                                                                                                                                                                                                                                                                                 |
@@ -140,11 +155,14 @@ Die Datei [`Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv`](https://github.com
 | expected_upperbound    | number  | Werte: ≥0<br>Fehlende Werte: `NA`                                 | Obere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts                                                                                                                                                                                                                                                                                                                                                               |
 | ed_count               | integer | Werte: ≥0                                                         | Anzahl von eingeschlossenen Notaufnahmen an diesem Tag in den Notaufnahmen vom gegebenen Notaufnahmetyp                                                                                                                                                                                                                                                                                                                      |
 
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 
 
-Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json`](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/frictionless_data_schema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json).
+
 
 
 ### Formatierung der Daten  
