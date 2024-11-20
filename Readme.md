@@ -118,13 +118,6 @@ Die Datei [Notaufnahmesurveillance_Standorte.tsv](https://github.com/robert-koch
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
-
-
-
-
-
-
-
 ### Notaufnahmevorstellungen für ausgewählte Syndromdefinitionen  
 
 Wie im Abschnitt [Syndromdefinitionen](#Syndromdefinitionen) beschrieben, werden die Notaufnahmevorstellungen derzeit nach akuten respiratorischen Erkrankungen (ARE), schweren akuten respiratorischen Infektionen (SARI),  grippeähnlichen Erkrankungen (ILI), Coronavirus Erkrankungen (COVID-19) und gastrointestinalen Infektionen (GI) unterschieden.   
@@ -158,11 +151,6 @@ Die Datei [Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv](https://github.com/r
 <!-- DATA_SCHEMA_TABLE_END -->
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
-
-
-
-
-
 
 
 ### Formatierung der Daten  
