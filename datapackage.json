@@ -1,0 +1,26 @@
+{
+  "name": "10.5281/zenodo.7189871",
+  "title": "Daten der Notaufnahmesurveillance",
+  "description": "Diese Datei gibt eine Übersicht über die im Datensatz enthaltenen Daten im Data Package Standard (https://datapackage.org). Der dokumentierte Datensatz ist auf den Plattformen Zenodo (https://doi.org/10.5281/zenodo.7189871) und Github (https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance) verfügbar.",
+  "homepage": "https://doi.org/10.5281/zenodo.7189871",
+  "resources": [
+    {
+      "name": "notaufnahmesurveillance_standorte",
+      "type": "table",
+      "path": "Notaufnahmesurveillance_Standorte.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "Metadaten/schemas/tableschema_Notaufnahmesurveillance_Standorte.json"
+    },
+    {
+      "name": "notaufnahmesurveillance_zeitreihen_syndrome",
+      "type": "table",
+      "path": "Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "Metadaten/schemas/tableschema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json"
+    }
+  ]
+}
