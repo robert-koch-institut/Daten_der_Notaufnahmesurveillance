@@ -46,6 +46,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 260340329	Klinikum Emden	central	Basisnotfallversorgung	Niedersachsen	03	53.375643708806	7.212860763057
 260510018	Universitätsklinikum Düsseldorf	central	Umfassende Versorgung	Nordrhein-Westfalen	05	51.196351936376	6.789506149416
 261100855	Sankt Joseph Krankenhaus Berlin Tempelhof	central	Umfassende Versorgung	Berlin	11	52.478649289539	13.372827565454
+260620431	Universitätsklinikum Marburg	central	Umfassende Versorgung	Hessen	06	50.81526897788	8.805859994882
 900000011	Charite Campus Virchow Klinikum	central	Umfassende Versorgung	Berlin	11	52.54211	13.34309
 900000012	Charite Campus Benjamin Franklin	central	Umfassende Versorgung	Berlin	11	52.44156	13.32046
 900000014	Kindernotaufnahme Memmingen	pediatric	Umfassende Versorgung	Bayern	09	47.9828	10.16906
