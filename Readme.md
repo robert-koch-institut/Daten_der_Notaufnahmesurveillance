@@ -25,9 +25,9 @@ Leipziger Straße 44
 ---  
 
 **Zitieren**  
-
-Robert Koch-Institut, AKTIN-Notaufnahmeregister (**2024**): Daten der Notaufnahmesurveillance. DOI:[10.5281/zenodo.813758](https://doi.org/10.5281/zenodo.14718547).  
-
+<!-- CITATION_START: {"citation_style": "apa"} -->
+Robert Koch-Institut, & AKTIN-Notaufnahmeregister. (2025). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14718547](https://doi.org/10.5281/zenodo.14718547)
+<!-- CITATION_END -->
 
 
 ## Informationen zum Datensatz und Entstehungskontext  
@@ -105,7 +105,7 @@ Die Datei [Notaufnahmesurveillance_Standorte.tsv](https://github.com/robert-koch
 | Variable      | Typ    | Ausprägungen                                                                                    | Beschreibung                                                                                                                   |
 |:--------------|:-------|:------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | ik_number     | string |                                                                                                 | ID der Notaufnahme                                                                                                             |
-| ed_name       | string | Eintrag kann nicht leer sein                                                                    | Name der Notaufnahme                                                                                                           |
+| ed_name       | string |                                                                                                 | Name der Notaufnahme                                                                                                           |
 | ed_type       | string | Werte: `central`, `pediatric`                                                                   | Notaufnahmetyp (`central`: Zentrale Notaufnahme, `pediatric`: Kindernotaufnahme)                                               |
 | level_of_care | string | Werte: `Basisnotfallversorgung`, `Erweiterte Versorgung`, `Umfassende Versorgung`               | [Versorgungsstufe](https://www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf) der Notaufnahme (deutsch) |
 | state         | string | Werte: `Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Bundesland (deutsch)                                                                                                           |
