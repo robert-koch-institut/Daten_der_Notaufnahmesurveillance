@@ -26,7 +26,7 @@ Leipziger Straße 44
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa"} -->
-Robert Koch-Institut, & AKTIN-Notaufnahmeregister. (2025). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14924024](https://doi.org/10.5281/zenodo.14924024)
+Robert Koch-Institut, & AKTIN-Notaufnahmeregister. (2025). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14930588](https://doi.org/10.5281/zenodo.14930588)
 <!-- CITATION_END -->
 
 
