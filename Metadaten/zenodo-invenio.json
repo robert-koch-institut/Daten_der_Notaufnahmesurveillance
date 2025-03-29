@@ -4,7 +4,7 @@
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2025-03-28",
+  "publication_date": "2025-03-29",
   "creators": [
     {
       "person_or_org": {
@@ -19,9 +19,334 @@
       }
     }
   ],
-  "contributors": [],
+  "contributors": [
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Diercke",
+        "given_name": "Michaela",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-4678-1813"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch Institute"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Schranz",
+        "given_name": "Madlen",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-2426-5770"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch Institute"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Wagner",
+        "given_name": "Birte",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-5725-3020"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch Institute"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Ullrich",
+        "given_name": "Alexander",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-4894-6124"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch Institute"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Grabenhenrich",
+        "given_name": "Linus",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-9300-6625"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch Institute"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Kocher",
+        "given_name": "Theresa",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0001-8958-4150"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch Institute"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Felix",
+        "given_name": "Walcher"
+      },
+      "affiliations": [
+        {
+          "name": "Otto-von-Guericke Universität Magdeburg"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Schirrmeister",
+        "given_name": "Wiebke",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0003-1861-8741"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Otto-von-Guericke Universität Magdeburg"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Drynda",
+        "given_name": "Susanne",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-5992-7578"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Otto-von-Guericke Universität Magdeburg"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Otto",
+        "given_name": "Ronny",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-5914-1129"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Otto-von-Guericke Universität Magdeburg"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Ehrentreich",
+        "given_name": "Saskia",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-3434-8780"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Otto-von-Guericke Universität Magdeburg"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Röhrig",
+        "given_name": "Rainer"
+      },
+      "affiliations": [
+        {
+          "name": "Universitätsklinik RWTH Aachen"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Majeed",
+        "given_name": "Raphael W.",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-8260-8815"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Universitätsklinik RWTH Aachen"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Bienzeisler",
+        "given_name": "Jonas",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0003-3633-147X"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Universitätsklinik RWTH Aachen"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Kombeiz",
+        "given_name": "Alexander",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0001-9745-8576"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Universitätsklinik RWTH Aachen"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Triefenbach",
+        "given_name": "Lucas",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0003-4124-1989"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Universitätsklinik RWTH Aachen"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    }
+  ],
   "publisher": "Zenodo",
-  "version": "2025-03-28",
+  "version": "2025-03-29",
   "dates": [
     {
       "date": "2025-03-28T00:00:00+01:00",
