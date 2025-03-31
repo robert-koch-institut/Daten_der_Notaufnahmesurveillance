@@ -14,37 +14,37 @@
   "contributors": [
     {
       "name": "Diercke, Michaela",
-      "affiliation": "Robert Koch Institute",
+      "affiliation": "Robert Koch-Institut",
       "type": "Researcher",
       "orcid": "0000-0002-4678-1813"
     },
     {
       "name": "Schranz, Madlen",
-      "affiliation": "Robert Koch Institute",
+      "affiliation": "Robert Koch-Institut",
       "type": "Researcher",
       "orcid": "0000-0002-2426-5770"
     },
     {
       "name": "Wagner, Birte",
-      "affiliation": "Robert Koch Institute",
+      "affiliation": "Robert Koch-Institut",
       "type": "Researcher",
       "orcid": "0000-0002-5725-3020"
     },
     {
       "name": "Ullrich, Alexander",
-      "affiliation": "Robert Koch Institute",
+      "affiliation": "Robert Koch-Institut",
       "type": "Researcher",
       "orcid": "0000-0002-4894-6124"
     },
     {
       "name": "Grabenhenrich, Linus",
-      "affiliation": "Robert Koch Institute",
+      "affiliation": "Robert Koch-Institut",
       "type": "Researcher",
       "orcid": "0000-0002-9300-6625"
     },
     {
       "name": "Kocher, Theresa",
-      "affiliation": "Robert Koch Institute",
+      "affiliation": "Robert Koch-Institut",
       "type": "Researcher",
       "orcid": "0000-0001-8958-4150"
     },
@@ -135,7 +135,7 @@
     "Deutschland",
     "Open Data"
   ],
-  "publication_date": "2025-03-30",
+  "publication_date": "2025-03-31",
   "version": "2025-03-28",
   "upload_type": "dataset",
   "access_right": "open",

@@ -4,7 +4,7 @@
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2025-03-30",
+  "publication_date": "2025-03-31",
   "creators": [
     {
       "person_or_org": {
@@ -34,7 +34,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch Institute"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -55,7 +56,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch Institute"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -76,7 +78,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch Institute"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -97,7 +100,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch Institute"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -118,7 +122,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch Institute"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -139,7 +144,8 @@
       },
       "affiliations": [
         {
-          "name": "Robert Koch Institute"
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
         }
       ],
       "role": {
@@ -346,7 +352,7 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2025-03-30",
+  "version": "2025-03-31",
   "dates": [
     {
       "date": "2025-03-28T00:00:00+01:00",

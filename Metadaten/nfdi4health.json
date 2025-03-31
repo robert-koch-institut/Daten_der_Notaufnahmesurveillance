@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.15108449",
+        "identifier": "10.5281/zenodo.15113048",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -175,7 +175,7 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch Institute"
+            "name": "Robert Koch-Institut"
           }
         ],
         "nameType": "Personal",
@@ -194,7 +194,7 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch Institute"
+            "name": "Robert Koch-Institut"
           }
         ],
         "nameType": "Personal",
@@ -213,7 +213,7 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch Institute"
+            "name": "Robert Koch-Institut"
           }
         ],
         "nameType": "Personal",
@@ -232,7 +232,7 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch Institute"
+            "name": "Robert Koch-Institut"
           }
         ],
         "nameType": "Personal",
@@ -251,7 +251,7 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch Institute"
+            "name": "Robert Koch-Institut"
           }
         ],
         "nameType": "Personal",
@@ -270,7 +270,7 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch Institute"
+            "name": "Robert Koch-Institut"
           }
         ],
         "nameType": "Personal",
