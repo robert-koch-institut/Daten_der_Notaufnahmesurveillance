@@ -11,7 +11,102 @@
       "affiliation": "AKTIN-Notaufnahmeregister"
     }
   ],
-  "contributors": [],
+  "contributors": [
+    {
+      "name": "Diercke, Michaela",
+      "affiliation": "Robert Koch-Institut",
+      "type": "Researcher",
+      "orcid": "0000-0002-4678-1813"
+    },
+    {
+      "name": "Schranz, Madlen",
+      "affiliation": "Robert Koch-Institut",
+      "type": "Researcher",
+      "orcid": "0000-0002-2426-5770"
+    },
+    {
+      "name": "Wagner, Birte",
+      "affiliation": "Robert Koch-Institut",
+      "type": "Researcher",
+      "orcid": "0000-0002-5725-3020"
+    },
+    {
+      "name": "Ullrich, Alexander",
+      "affiliation": "Robert Koch-Institut",
+      "type": "Researcher",
+      "orcid": "0000-0002-4894-6124"
+    },
+    {
+      "name": "Grabenhenrich, Linus",
+      "affiliation": "Robert Koch-Institut",
+      "type": "Researcher",
+      "orcid": "0000-0002-9300-6625"
+    },
+    {
+      "name": "Kocher, Theresa",
+      "affiliation": "Robert Koch-Institut",
+      "type": "Researcher",
+      "orcid": "0000-0001-8958-4150"
+    },
+    {
+      "name": "Felix, Walcher",
+      "affiliation": "Otto-von-Guericke Universität Magdeburg",
+      "type": "Researcher"
+    },
+    {
+      "name": "Schirrmeister, Wiebke",
+      "affiliation": "Otto-von-Guericke Universität Magdeburg",
+      "type": "Researcher",
+      "orcid": "0000-0003-1861-8741"
+    },
+    {
+      "name": "Drynda, Susanne",
+      "affiliation": "Otto-von-Guericke Universität Magdeburg",
+      "type": "Researcher",
+      "orcid": "0000-0002-5992-7578"
+    },
+    {
+      "name": "Otto, Ronny",
+      "affiliation": "Otto-von-Guericke Universität Magdeburg",
+      "type": "Researcher",
+      "orcid": "0000-0002-5914-1129"
+    },
+    {
+      "name": "Ehrentreich, Saskia",
+      "affiliation": "Otto-von-Guericke Universität Magdeburg",
+      "type": "Researcher",
+      "orcid": "0000-0002-3434-8780"
+    },
+    {
+      "name": "Röhrig, Rainer",
+      "affiliation": "Universitätsklinik RWTH Aachen",
+      "type": "Researcher"
+    },
+    {
+      "name": "Majeed, Raphael W.",
+      "affiliation": "Universitätsklinik RWTH Aachen",
+      "type": "Researcher",
+      "orcid": "0000-0002-8260-8815"
+    },
+    {
+      "name": "Bienzeisler, Jonas",
+      "affiliation": "Universitätsklinik RWTH Aachen",
+      "type": "Researcher",
+      "orcid": "0000-0003-3633-147X"
+    },
+    {
+      "name": "Kombeiz, Alexander",
+      "affiliation": "Universitätsklinik RWTH Aachen",
+      "type": "Researcher",
+      "orcid": "0000-0001-9745-8576"
+    },
+    {
+      "name": "Triefenbach, Lucas",
+      "affiliation": "Universitätsklinik RWTH Aachen",
+      "type": "Researcher",
+      "orcid": "0000-0003-4124-1989"
+    }
+  ],
   "keywords": [
     "Notaufnahmesurveillance",
     "Notaufnahmevorstellungen",
@@ -40,8 +135,8 @@
     "Deutschland",
     "Open Data"
   ],
-  "publication_date": "2025-03-25",
-  "version": "2025-03-25",
+  "publication_date": "2025-04-14",
+  "version": "2025-04-14",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -71,8 +166,8 @@
   ],
   "dates": [
     {
-      "start": "2025-03-25T00:00:00+01:00",
-      "end": "2025-03-25T00:00:00+01:00",
+      "start": "2025-04-14T00:00:00+02:00",
+      "end": "2025-04-14T00:00:00+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }

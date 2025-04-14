@@ -1,32 +1,30 @@
 Datensatzdokumentation
 # Daten der Notaufnahmesurveillance 
 
-**[Robert Koch-Institut | RKI](http://www.rki.de)**  
-Nordufer 20  
-13353 Berlin  
+<br> 
+<br> 
+<br> 
 
-**[AKTIN-Notaufnahmeregister](http://aktin.org)**   
-c/o Otto-von-Guericke Universität Magdeburg  
-Leipziger Straße 44  
-39120 Magdeburg  
+[**Robert Koch-Institut | RKI**](http://www.rki.de) und [**AKTIN-Notaufnahmeregister**](http://aktin.org)     
 
 <br>  
 
 **Beitragende Personen**  
+[Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1;, [Madlen Schranz](https://orcid.org/0000-0002-2426-5770)&sup1;, [Birte Wagner](https://orcid.org/0000-0002-5725-3020)&sup2;, [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1;, [Linus Grabenhenrich](https://orcid.org/0000-0002-9300-6625)&sup2;, [Theresa Kocher](https://orcid.org/0000-0002-9300-6625)&sup2;, Felix Walcher&sup3;, Wiebke Schirrmeister&sup3;, Susanne Drynda&sup3;, Ronny Otto&sup3;, Saskia Ehrentreich&sup3;, Rainer Röhrig&#8308;, Raphael Majeed&#8308;, Jonas Bienzeisler&#8308;, Alexander Kombeiz&#8308; und Lukas Triefenbach&#8308;    
 
-[Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1;, [Madlen Schranz](https://orcid.org/0000-0002-2426-5770)&sup1;, [Birte Wagner](https://orcid.org/0000-0002-5725-3020)&sup1;, [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1;, [Linus Grabenhenrich](https://orcid.org/0000-0002-9300-6625)&sup2;, [Theresa Kocher](https://orcid.org/0000-0002-9300-6625)&sup2;, Felix Walcher&sup3;, Wiebke Schirrmeister&sup3;, Susanne Drynda&sup3;, Ronny Otto&sup3;, Saskia Ehrentreich&sup3;, Rainer Röhrig&#8308;, Raphael Majeed&#8308;, Jonas Bienzeisler&#8308;, Alexander Kombeiz&#8308; und Lukas Triefenbach&#8308;    
+<br>
 
-&emsp;&sup1; Robert Koch-Institut | Fachgebiet 32  
-&emsp;&sup2; Robert Koch-Institut | Fachgebiet MF4   
-&emsp;&sup3; Otto-von-Guericke Universität Magdeburg | Medizinische Fakultät   
-&emsp;&#8308; Universitätsklinik RWTH Aachen | Institut für medizinische Informatik   
+&emsp;&emsp;&sup1; Robert Koch-Institut | Fachgebiet 32  
+&emsp;&emsp;&sup2; Robert Koch-Institut | Fachgebiet MF2   
+&emsp;&emsp;&sup3; Otto-von-Guericke Universität Magdeburg | Medizinische Fakultät   
+&emsp;&emsp;&#8308; Universitätsklinik RWTH Aachen | Institut für medizinische Informatik   
 
 
 ---  
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa"} -->
-AKTIN-Notaufnahmeregister, & Robert Koch-Institut. (2025). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15083245](https://doi.org/10.5281/zenodo.15083245)
+Robert Koch-Institut, & AKTIN-Notaufnahmeregister. (2025). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15210864](https://doi.org/10.5281/zenodo.15210864)
 <!-- CITATION_END -->
 
 
