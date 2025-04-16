@@ -135,8 +135,8 @@
     "Deutschland",
     "Open Data"
   ],
-  "publication_date": "2025-04-15",
-  "version": "2025-04-15",
+  "publication_date": "2025-04-16",
+  "version": "2025-04-16",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -166,8 +166,8 @@
   ],
   "dates": [
     {
-      "start": "2025-04-15T00:00:00+02:00",
-      "end": "2025-04-15T00:00:00+02:00",
+      "start": "2025-04-16T00:00:00+02:00",
+      "end": "2025-04-16T00:00:00+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
