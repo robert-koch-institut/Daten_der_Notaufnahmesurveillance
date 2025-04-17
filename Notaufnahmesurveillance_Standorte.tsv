@@ -39,11 +39,11 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 260831312	Schwarzwald-Baar-Klinikum, Villingen-Schwenningen	central	Umfassende Versorgung	Baden-Württemberg	08	47.955672391613	8.480150878413
 900000007	Klinikum Wolfsburg Pädiatrie	pediatric	Umfassende Versorgung	Niedersachsen	03	52.41354	10.76794
 260340034	Ubbo-Emmius-Klinik Aurich	central	Erweiterte Versorgung	Niedersachsen	03	53.468256304166	7.497409290072
-260340671	Ubbo-Emmius-Klinik Norden	central	Erweiterte Versorgung	Niedersachsen	03	53.600760522376	7.217868769712
+260340671	Ubbo-Emmius-Klinik Norden	central	Basisnotfallversorgung	Niedersachsen	03	53.600760522376	7.217868769712
 900000008	Pädiatrie UKSH Kiel	pediatric	Umfassende Versorgung	Schleswig-Holstein	01	54.32956	10.14113
 900000009	Pädiatrie UKSH Lübeck	pediatric	Umfassende Versorgung	Schleswig-Holstein	01	53.83402	10.70514
 900000010	Pädiatrie Klinikum Stuttgart	pediatric	Umfassende Versorgung	Baden-Württemberg	08	48.7844	9.17245
-260340329	Klinikum Emden	central	Basisnotfallversorgung	Niedersachsen	03	53.375643708806	7.212860763057
+260340329	Klinikum Emden	central	Erweiterte Versorgung	Niedersachsen	03	53.375643708806	7.212860763057
 260510018	Universitätsklinikum Düsseldorf	central	Umfassende Versorgung	Nordrhein-Westfalen	05	51.196351936376	6.789506149416
 261100855	Sankt Joseph Krankenhaus Berlin Tempelhof	central	Umfassende Versorgung	Berlin	11	52.478649289539	13.372827565454
 260620431	Universitätsklinikum Marburg	central	Umfassende Versorgung	Hessen	06	50.81526897788	8.805859994882
