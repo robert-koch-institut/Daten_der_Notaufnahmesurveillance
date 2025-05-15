@@ -57,6 +57,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000015	Pädiatrie Evangelisches Klinikum Bethel Bielefeld	pediatric	Umfassende Versorgung	Nordrhein Westfalen	Nordrhein Westfalen	52.0111690425693	8.5318143796594
 260570044	Evangelisches Klinikum Bethel	central	Umfassende Versorgung	Nordrhein-Westfalen	05	52.013456454331	8.525701117214
 260590071	Katholisches Klinikum Bochum	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	51.493922507533	7.228267908031
+260820569	Universitätsklinikum Mannheim	central	Umfassende Versorgung	Baden-Württemberg	08	49.491427119948	8.487168073589
 900000017	Schildesche Evangelisches Klinikum Bethel Bielefeld	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	52.0418856502219	8.54084353810798
 260530103	Universitätsklinikum Bonn	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.740666439889	7.101077596531
 900000018	Vivantes Humboldt-Klinikum 	central	Umfassende Versorgung	Berlin	11	52.5899636949553	13.3075036519882
