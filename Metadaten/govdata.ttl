@@ -11,8 +11,8 @@
                   dcatde:maintainer [ a foaf:Agent ; foaf:mbox "opendata@rki.de" ; foaf:name "Robert Koch-Institut | Open Data Team"] ;
                   dcatde:contributor [ a foaf:Organization; foaf:name "Robert Koch-Institut" ],[ a foaf:Organization; foaf:name "AKTIN-Notaufnahmeregister" ];
                   dct:description "<p>Der Datensatz 'Notaufnahmesurveillance' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem <a href=\"https://www.aktin.org/de-de/\">AKTIN-Notaufnahmeregister</a> und bildet die Grundlage für die <a href=\"https://www.rki.de/sumo\">Notaufnahmesurveillance</a> am RKI.</p>" ;
-                  dct:issued "2025-08-04T13:30:02+02:00"^^xsd:dateTime ;
-                  dct:modified "2025-08-04T00:00:00+02:00"^^xsd:dateTime ;
+                  dct:issued "2025-08-05T13:30:01+02:00"^^xsd:dateTime ;
+                  dct:modified "2025-08-05T00:00:00+02:00"^^xsd:dateTime ;
                   dct:publisher [ a foaf:Organization ;
                       foaf:mbox "opendata@rki.de" ;
                       foaf:name "Robert Koch Institut"
@@ -34,35 +34,35 @@
                   dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0>;
                   dcat:distribution [
                     a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Robert Koch-Institut und AKTIN-Notaufnahmeregister (2025): Daten der Notaufnahmesurveillance, Berlin: Zenodo. DOI:10.5281/zenodo.16737601" ;
+                    dcatde:licenseAttributionByText "Robert Koch-Institut und AKTIN-Notaufnahmeregister (2025): Daten der Notaufnahmesurveillance, Berlin: Zenodo. DOI:10.5281/zenodo.16744234" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Github - Daten der Notaufnahmesurveillance" ;
                     dcat:accessURL <https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance>;
-                    dct:modified "2025-08-04T13:30:02+02:00"^^xsd:dateTime;
+                    dct:modified "2025-08-05T13:30:01+02:00"^^xsd:dateTime;
                   ],
                   [
                     a dcat:Distribution ;
-                    dcatde:licenseAttributionByText "Robert Koch-Institut und AKTIN-Notaufnahmeregister (2025): Daten der Notaufnahmesurveillance, Berlin: Zenodo. DOI:10.5281/zenodo.16737601" ;
+                    dcatde:licenseAttributionByText "Robert Koch-Institut und AKTIN-Notaufnahmeregister (2025): Daten der Notaufnahmesurveillance, Berlin: Zenodo. DOI:10.5281/zenodo.16744234" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Zenodo - Daten der Notaufnahmesurveillance" ;
                     dcat:accessURL <https://zenodo.org/record/8430933>;
-                    dct:modified "2025-08-04T13:30:02+02:00"^^xsd:dateTime;
+                    dct:modified "2025-08-05T13:30:01+02:00"^^xsd:dateTime;
                   ],
                   [
                     a dcat:Distribution ;
                     dct:title "[Dokumentation] Daten_der_Notaufnahmesurveillance.pdf" ;
-                    dcatde:licenseAttributionByText "Robert Koch-Institut und AKTIN-Notaufnahmeregister (2025): Daten der Notaufnahmesurveillance, Berlin: Zenodo. DOI:10.5281/zenodo.16737601" ;
+                    dcatde:licenseAttributionByText "Robert Koch-Institut und AKTIN-Notaufnahmeregister (2025): Daten der Notaufnahmesurveillance, Berlin: Zenodo. DOI:10.5281/zenodo.16744234" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
                     dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'Daten der Notaufnahmesurveillance' bereitgestellten Daten" ;
                     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dcat:accessURL <https://zenodo.org/record/8430933/files/%5BDokumentation%5D_Daten_der_Notaufnahmesurveillance.pdf>;
-                    dct:modified "2025-08-04T13:30:02+02:00"^^xsd:dateTime;
+                    dct:modified "2025-08-05T13:30:01+02:00"^^xsd:dateTime;
                   ].
