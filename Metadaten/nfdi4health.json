@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.15222890",
+        "identifier": "10.5281/zenodo.17046239",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -144,14 +144,20 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-04-15"
+      "version": "2025-09-03"
     },
     "webpage": "https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance/",
     "contributors": [
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Organisational",
@@ -175,7 +181,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -194,7 +206,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -213,7 +231,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -232,7 +256,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -251,7 +281,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",
@@ -270,7 +306,13 @@
       {
         "affiliations": [
           {
-            "name": "Robert Koch-Institut"
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
           }
         ],
         "nameType": "Personal",

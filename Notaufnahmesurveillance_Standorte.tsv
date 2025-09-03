@@ -39,11 +39,11 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 260831312	Schwarzwald-Baar-Klinikum, Villingen-Schwenningen	central	Umfassende Versorgung	Baden-Württemberg	08	47.955672391613	8.480150878413
 900000007	Klinikum Wolfsburg Pädiatrie	pediatric	Umfassende Versorgung	Niedersachsen	03	52.41354	10.76794
 260340034	Ubbo-Emmius-Klinik Aurich	central	Erweiterte Versorgung	Niedersachsen	03	53.468256304166	7.497409290072
-260340671	Ubbo-Emmius-Klinik Norden	central	Erweiterte Versorgung	Niedersachsen	03	53.600760522376	7.217868769712
+260340671	Ubbo-Emmius-Klinik Norden	central	Basisnotfallversorgung	Niedersachsen	03	53.600760522376	7.217868769712
 900000008	Pädiatrie UKSH Kiel	pediatric	Umfassende Versorgung	Schleswig-Holstein	01	54.32956	10.14113
 900000009	Pädiatrie UKSH Lübeck	pediatric	Umfassende Versorgung	Schleswig-Holstein	01	53.83402	10.70514
 900000010	Pädiatrie Klinikum Stuttgart	pediatric	Umfassende Versorgung	Baden-Württemberg	08	48.7844	9.17245
-260340329	Klinikum Emden	central	Basisnotfallversorgung	Niedersachsen	03	53.375643708806	7.212860763057
+260340329	Klinikum Emden	central	Erweiterte Versorgung	Niedersachsen	03	53.375643708806	7.212860763057
 260510018	Universitätsklinikum Düsseldorf	central	Umfassende Versorgung	Nordrhein-Westfalen	05	51.196351936376	6.789506149416
 261100855	Sankt Joseph Krankenhaus Berlin Tempelhof	central	Umfassende Versorgung	Berlin	11	52.478649289539	13.372827565454
 260620431	Universitätsklinikum Marburg	central	Umfassende Versorgung	Hessen	06	50.81526897788	8.805859994882
@@ -57,11 +57,20 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000015	Pädiatrie Evangelisches Klinikum Bethel Bielefeld	pediatric	Umfassende Versorgung	Nordrhein Westfalen	Nordrhein Westfalen	52.0111690425693	8.5318143796594
 260570044	Evangelisches Klinikum Bethel	central	Umfassende Versorgung	Nordrhein-Westfalen	05	52.013456454331	8.525701117214
 260590071	Katholisches Klinikum Bochum	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	51.493922507533	7.228267908031
+260820569	Universitätsklinikum Mannheim	central	Umfassende Versorgung	Baden-Württemberg	08	49.491427119948	8.487168073589
 900000017	Schildesche Evangelisches Klinikum Bethel Bielefeld	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	52.0418856502219	8.54084353810798
 260530103	Universitätsklinikum Bonn	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.740666439889	7.101077596531
 900000018	Vivantes Humboldt-Klinikum 	central	Umfassende Versorgung	Berlin	11	52.5899636949553	13.3075036519882
 260610359	Sana Klinikum Offenbach	central	Umfassende Versorgung	Hessen	06	50.094192075512	8.756854444764
 260531730	Kliniken der Stadt Köln, Standort Köln-Merheim 	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.938275499264	7.053503966017
+260310642	Klinikum Peine	central	Basisnotfallversorgung	Niedersachsen	03	52.301798687817	10.237850155681
+900000019	Universitätsklinikum OWL der Universität Bielefeld, Standort Klinikum Bielefeld Rosenhöhe	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	51.98228	8.53295
+900000020	Universitätsklinikum OWL der Universität Bielefeld, Standort Klinikum Bielefeld Halle/Westfalen	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	52.0548	8.35516
 260530318	Kliniken der Stadt Köln, Standort Köln-Holweide	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	50.966947683362	7.055555105144
 261500597	Klinikum Magdeburg	central	Umfassende Versorgung 	Sachsen-Anhalt	15	52.157544889068	11.582455515845
 260570306	Kreiskliniken Herford-Bünde, Klinikum Herford	central	Umfassende Versorgung	Nordrhein-Westfalen	05	52.126395097108	8.700473427789
+260833531	Ortenau Klinikum, Standort Offenburg	central	Erweiterte Versorgung	Baden-Württemberg	08	48.476152222025	7.954721689257
+260833520	Ortenau Klinikum, Standort Lahr	central	Erweiterte Versorgung	Baden-Württemberg	08	48.344197339318	7.88605231045
+900000022	Universitätsklinikum OWL der Universität Bielefeld, Standort Klinikum Bielefeld Mitte	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	52.01404	8.54462
+260530604	St.-Antonius-Hospital Eschweiler	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	50.818603278644	6.264195620997
+260830048	St. Josefskrankenhaus Freiburg	central	Erweiterte Versorgung	Baden-Württemberg	08	48.001809236905	7.851977527125
