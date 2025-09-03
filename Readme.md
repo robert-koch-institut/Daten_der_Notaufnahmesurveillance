@@ -1,31 +1,50 @@
-Datensatzdokumentation
-# Daten der Notaufnahmesurveillance 
+<!-- HEADER_START: {"lang": "de"} -->
+
+
+Dokumentation  
+# Daten der Notaufnahmesurveillance
 
 <br> 
 <br> 
 <br> 
 
-[**Robert Koch-Institut | RKI**](http://www.rki.de) und [**AKTIN-Notaufnahmeregister**](http://aktin.org)     
+[**Robert Koch-Institut**](https://www.rki.de/), & [**AKTIN-Notaufnahmeregister**](http://aktin.org/)
 
-<br>  
+<br> 
 
-**Beitragende Personen**  
-[Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1;, [Madlen Schranz](https://orcid.org/0000-0002-2426-5770)&sup1;, [Birte Wagner](https://orcid.org/0000-0002-5725-3020)&sup2;, [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1;, [Linus Grabenhenrich](https://orcid.org/0000-0002-9300-6625)&sup2;, [Theresa Kocher](https://orcid.org/0000-0002-9300-6625)&sup2;, Felix Walcher&sup3;, Wiebke Schirrmeister&sup3;, Susanne Drynda&sup3;, Ronny Otto&sup3;, Saskia Ehrentreich&sup3;, Rainer Röhrig&#8308;, Raphael Majeed&#8308;, Jonas Bienzeisler&#8308;, Alexander Kombeiz&#8308; und Lukas Triefenbach&#8308;    
+**Beitragende**   
+[Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1;, [Madlen Schranz](https://orcid.org/0000-0002-2426-5770)&sup1;, [Birte Wagner](https://orcid.org/0000-0002-5725-3020)&sup2;, [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1;, [Linus Grabenhenrich](https://orcid.org/0000-0002-9300-6625)&sup3;, [Theresa Kocher](https://orcid.org/0000-0001-8958-4150)&sup2;, Felix Walcher&#8308;, [Wiebke Schirrmeister](https://orcid.org/0000-0003-1861-8741)&#8308;, [Susanne Drynda](https://orcid.org/0000-0002-5992-7578)&#8308;, [Ronny Otto](https://orcid.org/0000-0002-5914-1129)&#8308;, [Saskia Ehrentreich](https://orcid.org/0000-0002-3434-8780)&#8308;, Rainer Röhrig&#8309;, [Raphael Majeed](https://orcid.org/0000-0002-8260-8815)&#8309;, [Jonas Bienzeisler](https://orcid.org/0000-0003-3633-147X)&#8309;, [Alexander Kombeiz](https://orcid.org/0000-0001-9745-8576)&#8309;, & [Lukas Triefenbach](https://orcid.org/0000-0003-4124-1989)&#8309;
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://rki.de/) | [Fachgebiet 32](https://www.rki.de/fg32)  
+&emsp;&emsp;&sup2; [Robert Koch-Institut](https://rki.de/) | [Fachgebiet MF 2](https://www.rki.de/mf2)  
+&emsp;&emsp;&sup3; [Robert Koch-Institut](https://rki.de/) | [Abteilung MFI](https://www.rki.de/mfi)  
+&emsp;&emsp;&#8308; [Otto-von-Guericke Universität Magdeburg](https://www.ovgu.de/) | [Medizinische Fakultät](https://www.med.ovgu.de/)  
+&emsp;&emsp;&#8309; [Universitätsklinik RWTH Aachen](https://www.ukaachen.de/) | [Institut für medizinische Informatik](https://www.ukaachen.de/kliniken-institute/institut-fuer-medizinische-informatik/imi-home/)
+
+<br> 
+
+**Zitieren**  
+Robert Koch-Institut, & AKTIN-Notaufnahmeregister. (2025). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17046239](https://doi.org/10.5281/zenodo.17046239)
 
 <br>
 
-&emsp;&emsp;&sup1; Robert Koch-Institut | Fachgebiet 32  
-&emsp;&emsp;&sup2; Robert Koch-Institut | Fachgebiet MF2   
-&emsp;&emsp;&sup3; Otto-von-Guericke Universität Magdeburg | Medizinische Fakultät   
-&emsp;&emsp;&#8308; Universitätsklinik RWTH Aachen | Institut für medizinische Informatik   
 
+**Zusammenfassung**    
+Der Datensatz "Daten der Notaufnahmesurveillance" wird durch das Robert Koch-Institut und das AKTIN-Notaufnahmeregister bei Krankenhausaufnahmen bereitgestellt. Der Datensatz beinhaltet aggregierte Routinedaten aus deutschen Notaufnahmen zur syndromischen Überwachung von akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen (ILI), Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE), gastrointestinale Infektionen (GI) und schwere akute respiratorische Infektionen (SARI). Dabei wird der relative Anteil dieser Erkrankungen an der Gesamtzahl der Notaufnahmevorstellungen sowie die berechneten Erwartungswerte und Prädiktionsintervalle ausgewiesen. Die Daten sind nach Notaufnahmetypen und Altersgruppen aggregiert. Damit bietet der Datensatz eine wertvolle Ressource für die Forschung im Bereich der Notfallmedizin und der Überwachung akuter Gesundheitsereignisse in Deutschland.
 
----  
+<br>
 
-**Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
-Robert Koch-Institut, & AKTIN-Notaufnahmeregister. (2025). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17046239](https://doi.org/10.5281/zenodo.17046239)
-<!-- CITATION_END -->
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Inhalt und Aufbau des Datensatzes](#inhalt-und-aufbau-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
+
 
 
 ## Informationen zum Datensatz und Entstehungskontext  
@@ -38,7 +57,7 @@ Die zugrundeliegenden Daten aus der Routinedokumentation von Notaufnahmen werden
 
 > Brammen, D., Greiner, F., Kulla, M. et al. Das AKTIN-Notaufnahmeregister – kontinuierlich aktuelle Daten aus der Akutmedizin. Med Klin Intensivmed Notfmed 117, 24–33 (2022). DOI: [10.1007/s00063-020-00764-2](https://doi.org/10.1007/s00063-020-00764-2)   
 
-Die Verarbeitung, Aufbereitung und automatisierte Qualitätsprüfung sowie die Veröffentlichung der Daten erfolgen durch das [Fachgebiet MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:opendata@rki.de) gerichtet werden. Die epidemiologisch-fachliche Expertise für die Notaufnahmesurveillance liegt bei dem [Fachgebiet FG 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG32/fg32-surveillance-und-elektronisches-melde-und-informationssystem-demis-oegd-kontaktstelle-node.html) des RKI, Fragen an das Team der Notaufnahmesurveillance können unter [sumo@rki.de](mailto:sumo@rki.de) gestellt werden. Das Monitoring der Notaufnahme-spezifischen Datenqualität und etwaige Abstimmungen mit den Notaufnahmen erfolgt im AKTIN TDAC. Für den Kontakt und Koordination der teilnehmenden Notaufnahmen ist das AKTIN-Office verantwortlich. Bei Fragen bitte an [office@aktin.org](mailto:office@aktin.org) wenden.  
+Die Verarbeitung, Aufbereitung und automatisierte Qualitätsprüfung sowie die Veröffentlichung der Daten erfolgen durch das [Fachgebiet MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:opendata@rki.de) gerichtet werden. Die epidemiologisch-fachliche Expertise für die Notaufnahmesurveillance liegt bei dem [Fachgebiet FG 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle](https://www.rki.de/fg32) des RKI, Fragen an das Team der Notaufnahmesurveillance können unter [sumo@rki.de](mailto:sumo@rki.de) gestellt werden. Das Monitoring der Notaufnahme-spezifischen Datenqualität und etwaige Abstimmungen mit den Notaufnahmen erfolgt im AKTIN TDAC. Für den Kontakt und Koordination der teilnehmenden Notaufnahmen ist das AKTIN-Office verantwortlich. Bei Fragen bitte an [office@aktin.org](mailto:office@aktin.org) wenden.  
   
 ### Datengrundlage und Einschlusskriterien  
 
