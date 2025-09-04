@@ -9,7 +9,7 @@
     "descriptions": [
       {
         "language": "DE (German)",
-        "text": "Der Datensatz 'Notaufnahmesurveillance' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem AKTIN-Notaufnahmeregister (https://www.aktin.org/de-de/) und bildet die Grundlage für die Notaufnahmesurveillance (https://www.rki.de/sumo) am RKI."
+        "text": "Der Datensatz \"Daten der Notaufnahmesurveillance\" wird durch das Robert Koch-Institut und das AKTIN-Notaufnahmeregister bei Krankenhausaufnahmen bereitgestellt. Der Datensatz beinhaltet aggregierte Routinedaten aus deutschen Notaufnahmen zur syndromischen Überwachung von akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen (ILI), Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE), gastrointestinale Infektionen (GI) und schwere akute respiratorische Infektionen (SARI). Dabei wird der relative Anteil dieser Erkrankungen an der Gesamtzahl der Notaufnahmevorstellungen sowie die berechneten Erwartungswerte und Prädiktionsintervalle ausgewiesen. Die Daten sind nach Notaufnahmetypen und Altersgruppen aggregiert. Damit bietet der Datensatz eine wertvolle Ressource für die Forschung im Bereich der Notfallmedizin und der Überwachung akuter Gesundheitsereignisse in Deutschland."
       }
     ],
     "titles": [
@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.17046239",
+        "identifier": "10.5281/zenodo.17054165",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -144,7 +144,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-09-03"
+      "version": "2025-09-04"
     },
     "webpage": "https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance/",
     "contributors": [
@@ -337,8 +337,8 @@
         "nameType": "Personal",
         "personal": {
           "type": "Researcher",
-          "givenName": "Walcher",
-          "familyName": "Felix"
+          "givenName": "Felix",
+          "familyName": "Walcher"
         }
       },
       {
@@ -438,8 +438,8 @@
         ],
         "nameType": "Personal",
         "personal": {
-          "type": "Researcher",
-          "givenName": "Raphael W.",
+          "type": "Project leader",
+          "givenName": "Raphael",
           "familyName": "Majeed",
           "identifiers": [
             {
@@ -496,7 +496,7 @@
         "nameType": "Personal",
         "personal": {
           "type": "Researcher",
-          "givenName": "Lucas",
+          "givenName": "Lukas",
           "familyName": "Triefenbach",
           "identifiers": [
             {

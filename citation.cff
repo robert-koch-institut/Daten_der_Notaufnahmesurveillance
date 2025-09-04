@@ -2,11 +2,20 @@ cff-version: 1.2.0
 type: dataset
 title: Daten der Notaufnahmesurveillance
 abstract: >-
-  Der Datensatz 'Notaufnahmesurveillance' enthält aggregierte Daten der
-  Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem
-  AKTIN-Notaufnahmeregister (https://www.aktin.org/de-de/) und bildet die
-  Grundlage für die Notaufnahmesurveillance (https://www.rki.de/sumo) am RKI.
-date-released: '2025-09-03'
+  Der Datensatz &quot;Daten der Notaufnahmesurveillance&quot; wird durch das
+  Robert Koch-Institut und das AKTIN-Notaufnahmeregister bei
+  Krankenhausaufnahmen bereitgestellt. Der Datensatz beinhaltet aggregierte
+  Routinedaten aus deutschen Notaufnahmen zur syndromischen Überwachung von
+  akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen (ILI),
+  Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE),
+  gastrointestinale Infektionen (GI) und schwere akute respiratorische
+  Infektionen (SARI). Dabei wird der relative Anteil dieser Erkrankungen an der
+  Gesamtzahl der Notaufnahmevorstellungen sowie die berechneten Erwartungswerte
+  und Prädiktionsintervalle ausgewiesen. Die Daten sind nach Notaufnahmetypen
+  und Altersgruppen aggregiert. Damit bietet der Datensatz eine wertvolle
+  Ressource für die Forschung im Bereich der Notfallmedizin und der Überwachung
+  akuter Gesundheitsereignisse in Deutschland.
+date-released: '2025-09-04'
 keywords:
   - Notaufnahmesurveillance
   - Notaufnahmevorstellungen
@@ -41,8 +50,9 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.17046239
-version: '2025-09-03T00:00:00+02:00'
+doi: 10.5281/zenodo.17054165
+version: '2025-09-04T00:00:00+02:00'
 authors:
   - name: Robert Koch-Institut
+    email: info@rki.de
   - name: AKTIN-Notaufnahmeregister

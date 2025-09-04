@@ -1,6 +1,6 @@
 {
   "title": "Daten der Notaufnahmesurveillance",
-  "description": "<p>Der Datensatz 'Notaufnahmesurveillance' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem <a href=\"https://www.aktin.org/de-de/\">AKTIN-Notaufnahmeregister</a> und bildet die Grundlage für die <a href=\"https://www.rki.de/sumo\">Notaufnahmesurveillance</a> am RKI.</p>\n",
+  "description": "<p>Der Datensatz &quot;Daten der Notaufnahmesurveillance&quot; wird durch das Robert Koch-Institut und das AKTIN-Notaufnahmeregister bei Krankenhausaufnahmen bereitgestellt. Der Datensatz beinhaltet aggregierte Routinedaten aus deutschen Notaufnahmen zur syndromischen Überwachung von akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen (ILI), Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE), gastrointestinale Infektionen (GI) und schwere akute respiratorische Infektionen (SARI). Dabei wird der relative Anteil dieser Erkrankungen an der Gesamtzahl der Notaufnahmevorstellungen sowie die berechneten Erwartungswerte und Prädiktionsintervalle ausgewiesen. Die Daten sind nach Notaufnahmetypen und Altersgruppen aggregiert. Damit bietet der Datensatz eine wertvolle Ressource für die Forschung im Bereich der Notfallmedizin und der Überwachung akuter Gesundheitsereignisse in Deutschland.</p>\n",
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -49,7 +49,7 @@
       "orcid": "0000-0001-8958-4150"
     },
     {
-      "name": "Felix, Walcher",
+      "name": "Walcher, Felix",
       "affiliation": "Otto-von-Guericke Universität Magdeburg",
       "type": "Researcher"
     },
@@ -83,9 +83,9 @@
       "type": "Researcher"
     },
     {
-      "name": "Majeed, Raphael W.",
+      "name": "Majeed, Raphael",
       "affiliation": "Universitätsklinik RWTH Aachen",
-      "type": "Researcher",
+      "type": "ProjectLeader",
       "orcid": "0000-0002-8260-8815"
     },
     {
@@ -101,7 +101,7 @@
       "orcid": "0000-0001-9745-8576"
     },
     {
-      "name": "Triefenbach, Lucas",
+      "name": "Triefenbach, Lukas",
       "affiliation": "Universitätsklinik RWTH Aachen",
       "type": "Researcher",
       "orcid": "0000-0003-4124-1989"
@@ -135,8 +135,8 @@
     "Deutschland",
     "Open Data"
   ],
-  "publication_date": "2025-09-03",
-  "version": "2025-09-03",
+  "publication_date": "2025-09-04",
+  "version": "2025-09-04",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -166,8 +166,8 @@
   ],
   "dates": [
     {
-      "start": "2025-09-03T00:00:00+02:00",
-      "end": "2025-09-03T00:00:00+02:00",
+      "start": "2025-09-04T00:00:00+02:00",
+      "end": "2025-09-04T00:00:00+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
