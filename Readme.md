@@ -24,7 +24,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut, & AKTIN-Notaufnahmeregister. (2025). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17142571](https://doi.org/10.5281/zenodo.17142571)
+Robert Koch-Institut, & AKTIN-Notaufnahmeregister. (2025). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17152610](https://doi.org/10.5281/zenodo.17152610)
 
 <br>
 
