@@ -57,6 +57,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000015	Pädiatrie Evangelisches Klinikum Bethel Bielefeld	pediatric	Umfassende Versorgung	Nordrhein Westfalen	Nordrhein Westfalen	52.0111690425693	8.5318143796594
 260570044	Evangelisches Klinikum Bethel	central	Umfassende Versorgung	Nordrhein-Westfalen	05	52.013456454331	8.525701117214
 260590071	Katholisches Klinikum Bochum	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	51.493922507533	7.228267908031
+261000386	Universitätsklinikum Saarland	central	Umfassende Versorgung	Saarland	10	49.308912016795	7.345732033236
 260820569	Universitätsklinikum Mannheim	central	Umfassende Versorgung	Baden-Württemberg	08	49.491427119948	8.487168073589
 900000017	Schildesche Evangelisches Klinikum Bethel Bielefeld	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	52.0418856502219	8.54084353810798
 260530103	Universitätsklinikum Bonn	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.740666439889	7.101077596531
@@ -71,6 +72,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 260570306	Kreiskliniken Herford-Bünde, Klinikum Herford	central	Umfassende Versorgung	Nordrhein-Westfalen	05	52.126395097108	8.700473427789
 260833531	Ortenau Klinikum, Standort Offenburg	central	Erweiterte Versorgung	Baden-Württemberg	08	48.476152222025	7.954721689257
 260833520	Ortenau Klinikum, Standort Lahr	central	Erweiterte Versorgung	Baden-Württemberg	08	48.344197339318	7.88605231045
+260950567	Uniklinikum Erlangen	central	Umfassende Versorgung	Bayern	09	49.600814436059	11.010412752612
 900000022	Universitätsklinikum OWL der Universität Bielefeld, Standort Klinikum Bielefeld Mitte	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	52.01404	8.54462
 260530604	St.-Antonius-Hospital Eschweiler	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	50.818603278644	6.264195620997
 260830048	St. Josefskrankenhaus Freiburg	central	Erweiterte Versorgung	Baden-Württemberg	08	48.001809236905	7.851977527125
