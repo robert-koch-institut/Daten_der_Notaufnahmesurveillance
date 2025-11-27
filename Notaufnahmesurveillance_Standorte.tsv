@@ -55,7 +55,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 261500553	BG Klinikum Bergmannstrost Halle	central	Erweiterte Versorgung	Sachsen-Anhalt	15	51.460257513815	11.984916687143
 260820466	Universitätsklinikum Heidelberg	central	Umfassende Versorgung	Baden-Württemberg	08	49.409500294287	8.685672998363
 260730161	Universitätsmedizin der Johannes Gutenberg-Universität Mainz	central	Umfassende Versorgung	Rheinland-Pfalz	07	49.992949180831	8.259165929903
-900000015	Pädiatrie Evangelisches Klinikum Bethel Bielefeld	pediatric	Umfassende Versorgung	Nordrhein Westfalen	Nordrhein Westfalen	52.0111690425693	8.5318143796594
+900000015	Pädiatrie Evangelisches Klinikum Bethel Bielefeld	pediatric	Umfassende Versorgung	Nordrhein-Westfalen	05	52.0111690425693	8.5318143796594
 260570044	Evangelisches Klinikum Bethel	central	Umfassende Versorgung	Nordrhein-Westfalen	05	52.013456454331	8.525701117214
 260590071	Katholisches Klinikum Bochum	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	51.493922507533	7.228267908031
 261000386	Universitätsklinikum Saarland	central	Umfassende Versorgung	Saarland	10	49.308912016795	7.345732033236
