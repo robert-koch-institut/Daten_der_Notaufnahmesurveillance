@@ -2,6 +2,7 @@
 
 
 Dokumentation  
+
 # Daten der Notaufnahmesurveillance
 
 <br> 
@@ -24,7 +25,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut, & AKTIN-Notaufnahmeregister. (2025). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18115601](https://doi.org/10.5281/zenodo.18115601)
+Robert Koch-Institut, & AKTIN-Notaufnahmeregister. (2026). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18115601](https://doi.org/10.5281/zenodo.18115601)
 
 <br>
 
@@ -34,11 +35,12 @@ Der Datensatz "Daten der Notaufnahmesurveillance" wird durch das Robert Koch-Ins
 
 <br>
 
-**Inhaltsverzeichnis** 
+**Inhaltsverzeichnis**  
+
 <!-- TOC_START: {"heading_depth": 2} -->
-  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
-  - [Inhalt und Aufbau des Datensatzes](#inhalt-und-aufbau-des-datensatzes)
-  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)  
+  - [Inhalt und Aufbau des Datensatzes](#inhalt-und-aufbau-des-datensatzes)  
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)  
 <!-- TOC_END -->
 
 <br>
@@ -119,16 +121,16 @@ Die Datei [Notaufnahmesurveillance_Standorte.tsv](https://github.com/robert-koch
 > [tableschema_Notaufnahmesurveillance_Standorte.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/tableschema_Notaufnahmesurveillance_Standorte.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable      | Typ    | Ausprägungen                                                                                    | Beschreibung                                                                                                                   |
-|:--------------|:-------|:------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| ik_number     | string |                                                                                                 | ID der Notaufnahme                                                                                                             |
-| ed_name       | string |                                                                                                 | Name der Notaufnahme                                                                                                           |
-| ed_type       | string | Werte: `central`, `pediatric`                                                                   | Notaufnahmetyp (`central`: Zentrale Notaufnahme, `pediatric`: Kindernotaufnahme)                                               |
-| level_of_care | string | Werte: `Basisnotfallversorgung`, `Erweiterte Versorgung`, `Umfassende Versorgung`               | [Versorgungsstufe](https://www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf) der Notaufnahme (deutsch) |
-| state         | string | Werte: `Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Bundesland (deutsch)                                                                                                           |
-| state_id      | string | Werte: `01`, `02`, `03`, `04`, `05`, `06`, `07`, …                                              | [Länderschlüssel](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel) des Bundeslandes                             |
-| latitude      | number | Werte: `≥0`                                                                                     | Breitengrad des Standorts der Notaufnahme                                                                                      |
-| longitude     | number | Werte: `≥0`                                                                                     | Längengrad des Standorts der Notaufnahme                                                                                       |
+| Variable      | Typ    | Ausprägungen                                                                                       | Beschreibung                                                                                                                                                                                                       |
+|:--------------|:-------|:---------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ik_number     | string |                                                                                                    | ID der Notaufnahme                                                                                                                                                                                                 |
+| ed_name       | string |                                                                                                    | Name der Notaufnahme                                                                                                                                                                                               |
+| ed_type       | string | Werte:<br>`central`, `pediatric`                                                                   | Notaufnahmetyp (`central`: Zentrale Notaufnahme, `pediatric`: Kindernotaufnahme)                                                                                                                                   |
+| level_of_care | string | Werte:<br>`Basisnotfallversorgung`, `Erweiterte Versorgung`, `Umfassende Versorgung`               | [Versorgungsstufe](https://[www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf](https://www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf)) der Notaufnahme (deutsch) |
+| state         | string | Werte:<br>`Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Bundesland (deutsch)                                                                                                                                                                                               |
+| state_id      | string | Werte:<br>`01`, `02`, `03`, `04`, `05`, `06`, `07`, …                                              | [Länderschlüssel](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel) des Bundeslandes                                                                                                                 |
+| latitude      | number | Werte: `≥0`                                                                                        | Breitengrad des Standorts der Notaufnahme                                                                                                                                                                          |
+| longitude     | number | Werte: `≥0`                                                                                        | Längengrad des Standorts der Notaufnahme                                                                                                                                                                           |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -152,18 +154,18 @@ Die Datei [Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv](https://github.com/r
 > [tableschema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/tableschema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable               | Typ     | Ausprägungen                                                      | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|:-----------------------|:--------|:------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| date                   | date    | Format: `YYYY-MM-DD`                                              | Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag                                                                                                                                                                                                                                                                                                                                                                 |
-| ed_type                | string  | Werte: `all`, `central`, `pediatric`                              | Notaufnahmetyp (`all`: alle Notaufnahmen, `central`: Zentrale Notaufnahme, _pediatric_: Kindernotaufnahme)                                                                                                                                                                                                                                                                                                                   |
-| age_group              | string  | Werte: `00+`, `0-4`, `5-9`, `10-14`, `15-19`, `20-39`, `40-59`, … | Altersgruppe (`00+`: alle Altersgruppen, `0-4`: 0-4 Jahre, ...)                                                                                                                                                                                                                                                                                                                                                              |
-| syndrome               | string  | Werte: `ARI`, `SARI`, `ILI`, `COVID`, `GI`                        | Syndromdefinitionen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI), siehe [Boender et al. 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS). Für gastrointestinale Infektionen (GI) siehe [Baum et al. 2023](https://doi.org/10.1101/2023.11.28.23298985). |
-| relative_cases         | number  | Werte: `≥0`                                                       | Relativer Anteil Notaufnahmevorstellungen an diesem Tag mit gegebenem Syndrom an allen Notaufnahmevorstellungen in gegebenen Notaufnahmen von gegebenem Typ                                                                                                                                                                                                                                                                  |
-| relative_cases_7day_ma | number  | Werte: `≥0`<br>Fehlende Werte: `NA`                               | Gleitender 7-Tage Durchschnitt des relativen Anteil von Fällen des Syndroms an den Gesamtvorstellungen                                                                                                                                                                                                                                                                                                                       |
-| expected_value         | number  | Werte: `≥0`<br>Fehlende Werte: `NA`                               | Erwartungswert des relativen Anteils von Fällen des Syndroms an den Gesamtvorstellungen                                                                                                                                                                                                                                                                                                                                      |
-| expected_lowerbound    | number  | Werte: `≥0`<br>Fehlende Werte: `NA`                               | Untere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts                                                                                                                                                                                                                                                                                                                                                              |
-| expected_upperbound    | number  | Werte: `≥0`<br>Fehlende Werte: `NA`                               | Obere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts                                                                                                                                                                                                                                                                                                                                                               |
-| ed_count               | integer | Werte: `≥0`                                                       | Anzahl von eingeschlossenen Notaufnahmen an diesem Tag in den Notaufnahmen vom gegebenen Notaufnahmetyp                                                                                                                                                                                                                                                                                                                      |
+| Variable               | Typ     | Ausprägungen                                                         | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|:-----------------------|:--------|:---------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| date                   | date    | Format: `YYYY-MM-DD`                                                 | Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ed_type                | string  | Werte:<br>`all`, `central`, `pediatric`                              | Notaufnahmetyp (`all`: alle Notaufnahmen, `central`: Zentrale Notaufnahme, _pediatric_: Kindernotaufnahme)                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| age_group              | string  | Werte:<br>`00+`, `0-4`, `5-9`, `10-14`, `15-19`, `20-39`, `40-59`, … | Altersgruppe (`00+`: alle Altersgruppen, `0-4`: 0-4 Jahre, ...)                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| syndrome               | string  | Werte:<br>`ARI`, `SARI`, `ILI`, `COVID`, `GI`                        | Syndromdefinitionen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI), siehe [Boender et al. 2022](https://[www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS)). Für gastrointestinale Infektionen (GI) siehe [Baum et al. 2023](https://doi.org/10.1101/2023.11.28.23298985). |
+| relative_cases         | number  | Werte: `≥0`                                                          | Relativer Anteil Notaufnahmevorstellungen an diesem Tag mit gegebenem Syndrom an allen Notaufnahmevorstellungen in gegebenen Notaufnahmen von gegebenem Typ                                                                                                                                                                                                                                                                                                                                                                |
+| relative_cases_7day_ma | number  | Werte: `≥0`<br>Fehlende Werte:<br>`NA`                               | Gleitender 7-Tage Durchschnitt des relativen Anteil von Fällen des Syndroms an den Gesamtvorstellungen                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| expected_value         | number  | Werte: `≥0`<br>Fehlende Werte:<br>`NA`                               | Erwartungswert des relativen Anteils von Fällen des Syndroms an den Gesamtvorstellungen                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| expected_lowerbound    | number  | Werte: `≥0`<br>Fehlende Werte:<br>`NA`                               | Untere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| expected_upperbound    | number  | Werte: `≥0`<br>Fehlende Werte:<br>`NA`                               | Obere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ed_count               | integer | Werte: `≥0`                                                          | Anzahl von eingeschlossenen Notaufnahmen an diesem Tag in den Notaufnahmen vom gegebenen Notaufnahmetyp                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -189,7 +191,7 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/zenodo.json)  
 
@@ -200,8 +202,8 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
     {
       "start": "2023-09-11T15:00:21+02:00",
       "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
 ```    
@@ -230,6 +232,8 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 - https://github.com/robert-koch-institut  
 - https://gitlab.opencode.de/robert-koch-institut  
 - https://edoc.rki.de/  
+
+
  
 ### Lizenz  
 
