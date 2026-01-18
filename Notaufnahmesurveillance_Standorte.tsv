@@ -62,6 +62,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 260820569	Universitätsklinikum Mannheim	central	Umfassende Versorgung	Baden-Württemberg	08	49.491427119948	8.487168073589
 900000017	Schildesche Evangelisches Klinikum Bethel Bielefeld	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	52.0418856502219	8.54084353810798
 260530103	Universitätsklinikum Bonn	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.740666439889	7.101077596531
+260612124	Universitätsklinikum Frankfurt/Main	central	Umfassende Versorgung	Hessen	06	50.095428562176	8.661681175363
 900000018	Vivantes Humboldt-Klinikum 	central	Umfassende Versorgung	Berlin	11	52.5899636949553	13.3075036519882
 260610359	Sana Klinikum Offenbach	central	Umfassende Versorgung	Hessen	06	50.094192075512	8.756854444764
 260531730	Kliniken der Stadt Köln, Standort Köln-Merheim 	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.938275499264	7.053503966017
