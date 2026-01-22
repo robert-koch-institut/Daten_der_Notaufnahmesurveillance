@@ -70,7 +70,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000019	Universitätsklinikum OWL der Universität Bielefeld, Standort Klinikum Bielefeld Rosenhöhe	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	51.98228	8.53295
 900000020	Universitätsklinikum OWL der Universität Bielefeld, Standort Klinikum Bielefeld Halle/Westfalen	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	52.0548	8.35516
 260530318	Kliniken der Stadt Köln, Standort Köln-Holweide	central	Basisnotfallversorgung	Nordrhein-Westfalen	05	50.966947683362	7.055555105144
-261500597	Klinikum Magdeburg	central	Umfassende Versorgung 	Sachsen-Anhalt	15	52.157544889068	11.582455515845
+261500597	Klinikum Magdeburg	central	Umfassende Versorgung	Sachsen-Anhalt	15	52.157544889068	11.582455515845
 900000021	Pädiatrie LMU Klinikum Innenstadt	pediatric	Umfassende Versorgung	Bayern	09	48.13034	11.55931
 260570306	Kreiskliniken Herford-Bünde, Klinikum Herford	central	Umfassende Versorgung	Nordrhein-Westfalen	05	52.126395097108	8.700473427789
 260833531	Ortenau Klinikum, Standort Offenburg	central	Erweiterte Versorgung	Baden-Württemberg	08	48.476152222025	7.954721689257
@@ -79,4 +79,4 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000022	Universitätsklinikum OWL der Universität Bielefeld, Standort Klinikum Bielefeld Mitte	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	52.01404	8.54462
 260530604	St.-Antonius-Hospital Eschweiler	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	50.818603278644	6.264195620997
 260830048	St. Josefskrankenhaus Freiburg	central	Erweiterte Versorgung	Baden-Württemberg	08	48.001809236905	7.851977527125
-900000025	Kindernotaufnahme Universitätsklinikum Bonn	pediatric	Umfassende Versorgung 	Nordrhein-Westfalen	05	50.7011980441821	7.10537650950911
+900000025	Kindernotaufnahme Universitätsklinikum Bonn	pediatric	Umfassende Versorgung	Nordrhein-Westfalen	05	50.7011980441821	7.10537650950911
