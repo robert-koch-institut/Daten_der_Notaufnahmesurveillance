@@ -84,6 +84,7 @@ Für jede Syndromdefinition sowie Filtermöglichkeit (Altersgruppe und Notaufnah
 ### Interpretation der Daten  
 
 Die Daten lassen sich nur mit Kenntnis der Prozesse und Strukturen in den jeweiligen Notaufnahmen bzw. in Rücksprache mit den Notaufnahmen sinnvoll interpretieren. Weiterhin ist es bei der Interpretation von Surveillance-Daten wichtig, einige Limitationen zu beachten:
+
 * Die Stichprobe an Notaufnahmen ist nicht repräsentativ für Deutschland.
 * Die Anzahl an Notaufnahmen in der Berichterstattung kann sich aufgrund unterschiedlicher Datenverfügbarkeiten und technischer Gegebenheiten ändern.
 * Bei den hier dargestellten Daten handelt es sich um Routinedaten, die im Rahmen der Notfallversorgung erhoben werden. Daraus ergeben sich einige Limitationen, die Einfluss auf die Qualität der Berichterstattung haben können:
@@ -172,11 +173,11 @@ Die Datei [Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv](https://github.com/r
 
 ### Formatierung der Daten  
 
-Die Notaufnahmesurveillance Daten sind im Datensatz als tabseparierte .tsv-Datei enthalten. Der verwendete Zeichensatz der .tsv-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab "\t". Datumsangaben sind im ISO-8601-Standard formatiert.  
+Die Notaufnahmesurveillance Daten sind im Datensatz als Tab-separierte .tsv-Datei enthalten. Der verwendete Zeichensatz der .tsv-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab `\t`. Datumsangaben sind im ISO-8601-Standard formatiert.  
 
 * Zeichensatz: UTF-8  
 * Datumsformat: ISO 8601  
-* .tsv-Trennzeichen: Tab "\t"  
+* .tsv-Trennzeichen: Tab `\t`  
 
 
 <!-- FOOTER_START: {"lang": "de"} -->
