@@ -79,4 +79,6 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000022	Universitätsklinikum OWL der Universität Bielefeld, Standort Klinikum Bielefeld Mitte	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	52.01404	8.54462
 260530604	St.-Antonius-Hospital Eschweiler	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	50.818603278644	6.264195620997
 260830048	St. Josefskrankenhaus Freiburg	central	Erweiterte Versorgung	Baden-Württemberg	08	48.001809236905	7.851977527125
+261401030	Universitätsklinikum Carl Gustav Carus Dresden	central	Umfassende Versorgung	Sachsen	14	51.056819087868	13.781290769675
+900000023	Pädiatrie Universitätsklinikum Carl Gustav Carus Dresden	pediatric	Umfassende Versorgung	Sachsen	14	51.0584802204288	13.7815135234191
 900000025	Kindernotaufnahme Universitätsklinikum Bonn	pediatric	Umfassende Versorgung	Nordrhein-Westfalen	05	50.7011980441821	7.10537650950911
