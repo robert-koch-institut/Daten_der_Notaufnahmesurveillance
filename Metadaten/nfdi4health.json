@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.18835464",
+        "identifier": "10.5281/zenodo.18848853",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -144,7 +144,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-03-02"
+      "version": "2026-03-03"
     },
     "webpage": "https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance/",
     "contributors": [
