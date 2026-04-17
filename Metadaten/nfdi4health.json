@@ -20,15 +20,15 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.19607265",
+        "identifier": "10.5281/zenodo.19630218",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
       },
       {
         "identifier": "https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance",
-        "relationType": "A references B",
         "typeGeneral": "Dataset",
+        "relationType": "A references B",
         "scheme": "URL"
       }
     ],
@@ -73,10 +73,12 @@
         "label": "Acute Disease"
       },
       {
-        "label": "Respiratory Tract Infections"
+        "label": "Respiratory Tract Infections",
+        "code": "http://id.nlm.nih.gov/mesh/D012141"
       },
       {
-        "label": "Atemwegsinfektionen"
+        "label": "Atemwegsinfektionen",
+        "code": "http://id.nlm.nih.gov/mesh/D012141"
       },
       {
         "label": "Respiratory Distress Syndrome"
@@ -106,29 +108,31 @@
         "label": "RKI"
       },
       {
-        "label": "Germany"
+        "label": "Germany",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       },
       {
-        "label": "Deutschland"
+        "label": "Deutschland",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       },
       {
         "label": "Open Data"
       },
       {
         "label": "Gesundheitsberichterstattung",
-        "code": "info:ddc/22/de//614.42"
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
       },
       {
         "label": "Epidemiologie",
-        "code": "info:ddc/22/de//614.4"
+        "code": "http://id.nlm.nih.gov/mesh/D004813"
       },
       {
         "label": "Public health surveillance",
-        "code": "info:ddc/22/eng//614.42"
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
       },
       {
         "label": "Epidemiology",
-        "code": "info:ddc/22/eng//614.4"
+        "code": "http://id.nlm.nih.gov/mesh/D004813"
       }
     ],
     "languages": [
@@ -144,11 +148,12 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-04-16"
+      "version": "2026-04-17"
     },
-    "webpage": "https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance/",
+    "webpage": "https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance",
     "contributors": [
       {
+        "nameType": "Organisational",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -160,25 +165,25 @@
             ]
           }
         ],
-        "nameType": "Organisational",
         "organisational": {
           "name": "Robert Koch-Institut",
           "type": "Creator/Author"
         }
       },
       {
+        "nameType": "Organisational",
         "affiliations": [
           {
             "name": "AKTIN-Notaufnahmeregister"
           }
         ],
-        "nameType": "Organisational",
         "organisational": {
           "name": "AKTIN-Notaufnahmeregister",
           "type": "Creator/Author"
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -190,7 +195,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Michaela",
@@ -204,6 +208,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -215,7 +220,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Madlen",
@@ -229,6 +233,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -240,7 +245,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Birte",
@@ -254,6 +258,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -265,7 +270,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Alexander",
@@ -279,6 +283,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -290,7 +295,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Linus",
@@ -304,6 +308,7 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Robert Koch-Institut",
@@ -315,7 +320,6 @@
             ]
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Theresa",
@@ -329,12 +333,12 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Otto-von-Guericke Universität Magdeburg"
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Felix",
@@ -342,12 +346,12 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Otto-von-Guericke Universität Magdeburg"
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Wiebke",
@@ -361,12 +365,12 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Otto-von-Guericke Universität Magdeburg"
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Susanne",
@@ -380,12 +384,12 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Otto-von-Guericke Universität Magdeburg"
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Ronny",
@@ -399,12 +403,12 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Otto-von-Guericke Universität Magdeburg"
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Saskia",
@@ -418,12 +422,12 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Universitätsklinik RWTH Aachen"
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Rainer",
@@ -431,12 +435,12 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Universitätsklinik RWTH Aachen"
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Project leader",
           "givenName": "Raphael",
@@ -450,12 +454,12 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Universitätsklinik RWTH Aachen"
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Jonas",
@@ -469,12 +473,12 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Universitätsklinik RWTH Aachen"
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Alexander",
@@ -488,12 +492,12 @@
         }
       },
       {
+        "nameType": "Personal",
         "affiliations": [
           {
             "name": "Universitätsklinik RWTH Aachen"
           }
         ],
-        "nameType": "Personal",
         "personal": {
           "type": "Researcher",
           "givenName": "Lukas",

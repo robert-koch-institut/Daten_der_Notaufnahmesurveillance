@@ -1,21 +1,18 @@
 cff-version: 1.2.0
 type: dataset
 title: Daten der Notaufnahmesurveillance
-abstract: >-
-  Der Datensatz &quot;Daten der Notaufnahmesurveillance&quot; wird durch das
-  Robert Koch-Institut und das AKTIN-Notaufnahmeregister bei
-  Krankenhausaufnahmen bereitgestellt. Der Datensatz beinhaltet aggregierte
-  Routinedaten aus deutschen Notaufnahmen zur syndromischen Überwachung von
-  akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen (ILI),
-  Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE),
-  gastrointestinale Infektionen (GI) und schwere akute respiratorische
-  Infektionen (SARI). Dabei wird der relative Anteil dieser Erkrankungen an der
-  Gesamtzahl der Notaufnahmevorstellungen sowie die berechneten Erwartungswerte
-  und Prädiktionsintervalle ausgewiesen. Die Daten sind nach Notaufnahmetypen
-  und Altersgruppen aggregiert. Damit bietet der Datensatz eine wertvolle
-  Ressource für die Forschung im Bereich der Notfallmedizin und der Überwachung
-  akuter Gesundheitsereignisse in Deutschland.
-date-released: '2026-04-16'
+abstract: Der Datensatz "Daten der Notaufnahmesurveillance" wird durch das Robert
+  Koch-Institut und das AKTIN-Notaufnahmeregister bei Krankenhausaufnahmen bereitgestellt.
+  Der Datensatz beinhaltet aggregierte Routinedaten aus deutschen Notaufnahmen zur
+  syndromischen Überwachung von akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen
+  (ILI), Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE),
+  gastrointestinale Infektionen (GI) und schwere akute respiratorische Infektionen
+  (SARI). Dabei wird der relative Anteil dieser Erkrankungen an der Gesamtzahl der
+  Notaufnahmevorstellungen sowie die berechneten Erwartungswerte und Prädiktionsintervalle
+  ausgewiesen. Die Daten sind nach Notaufnahmetypen und Altersgruppen aggregiert.
+  Damit bietet der Datensatz eine wertvolle Ressource für die Forschung im Bereich
+  der Notfallmedizin und der Überwachung akuter Gesundheitsereignisse in Deutschland.
+date-released: '2026-04-17'
 keywords:
   - Notaufnahmesurveillance
   - Notaufnahmevorstellungen
@@ -48,11 +45,13 @@ keywords:
   - Public health surveillance
   - Epidemiology
 message: Cite me!
-url: https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance/
+url: https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19607265
-version: '2026-04-16T00:00:00+02:00'
+doi: 10.5281/zenodo.19630218
+version: '2026-04-17T00:00:00+02:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
+    website: https://www.rki.de/
   - name: AKTIN-Notaufnahmeregister
+    website: http://aktin.org/
