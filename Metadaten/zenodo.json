@@ -149,8 +149,8 @@
     "Epidemiology"
   ],
   "subjects": [],
-  "publication_date": "2026-04-25",
-  "version": "2026-04-25",
+  "publication_date": "2026-04-26",
+  "version": "2026-04-26",
   "related_identifiers": [
     {
       "identifier": "https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance",
@@ -165,8 +165,8 @@
   ],
   "dates": [
     {
-      "start": "2026-04-25T00:00:00+02:00",
-      "end": "2026-04-25T00:00:00+02:00",
+      "start": "2026-04-26T00:00:00+02:00",
+      "end": "2026-04-26T00:00:00+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
