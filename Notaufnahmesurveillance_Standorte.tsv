@@ -85,3 +85,4 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000024	Pädiatrie Klinikum Oldenburg	pediatric	Erweiterte Versorgung	Niedersachsen	03	53.1116540074757	8.21430704425063
 261500702	Universitätsklinikum Halle (Saale)	central	Umfassende Versorgung	Sachsen-Anhalt	15	51.501065103479	11.934980928963
 900000025	Kindernotaufnahme Universitätsklinikum Bonn	pediatric	Umfassende Versorgung	Nordrhein-Westfalen	05	50.7011980441821	7.10537650950911
+900000026	Neurologische Notaufnahme Universitätsklinikum Bonn	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.6962412608154	7.10484045664789
