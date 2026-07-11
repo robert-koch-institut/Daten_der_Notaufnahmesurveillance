@@ -49,6 +49,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 260620431	Universitätsklinikum Marburg	central	Umfassende Versorgung	Hessen	06	50.81526897788	8.805859994882
 900000011	Charite Campus Virchow Klinikum	central	Umfassende Versorgung	Berlin	11	52.54211	13.34309
 900000012	Charite Campus Benjamin Franklin	central	Umfassende Versorgung	Berlin	11	52.44156	13.32046
+261300130	Kreiskrankenhaus Demmin	central	Erweiterte Versorgung	Mecklenburg-Vorpommern	13	53.902698241062	13.041572767388
 900000014	Kindernotaufnahme Memmingen	pediatric	Umfassende Versorgung	Bayern	09	47.9828	10.16906
 261400687	Elblandklinikum Riesa	central	Basisnotfallversorgung	Sachsen	14	51.296177141949	13.310297012313
 261400870	Elblandklinikum Radebeul	central	Basisnotfallversorgung	Sachsen	14	51.108144839837	13.651184320434
@@ -86,3 +87,4 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 261500702	Universitätsklinikum Halle (Saale)	central	Umfassende Versorgung	Sachsen-Anhalt	15	51.501065103479	11.934980928963
 900000025	Kindernotaufnahme Universitätsklinikum Bonn	pediatric	Umfassende Versorgung	Nordrhein-Westfalen	05	50.7011980441821	7.10537650950911
 900000026	Neurologische Notaufnahme Universitätsklinikum Bonn	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.6962412608154	7.10484045664789
+900000028	Pädiatrie Klinikum Aschaffenburg-Alzenau	pediatric	Umfassende Versorgung	Bayern	09	49.9779901157892	9.18730174854975
