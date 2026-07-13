@@ -1,10 +1,10 @@
 {
   "title": "Daten der Notaufnahmesurveillance",
-  "description": "<p>Der Datensatz \"Daten der Notaufnahmesurveillance\" wird durch das Robert Koch-Institut und das AKTIN-Notaufnahmeregister bei Krankenhausaufnahmen bereitgestellt. Der Datensatz beinhaltet aggregierte Routinedaten aus deutschen Notaufnahmen zur syndromischen Überwachung von akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen (ILI), Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE), gastrointestinale Infektionen (GI) und schwere akute respiratorische Infektionen (SARI). Dabei wird der relative Anteil dieser Erkrankungen an der Gesamtzahl der Notaufnahmevorstellungen sowie die berechneten Erwartungswerte und Prädiktionsintervalle ausgewiesen. Die Daten sind nach Notaufnahmetypen und Altersgruppen aggregiert. Damit bietet der Datensatz eine wertvolle Ressource für die Forschung im Bereich der Notfallmedizin und der Überwachung akuter Gesundheitsereignisse in Deutschland.</p>",
+  "description": "<p>Der Datensatz \"Daten der Notaufnahmesurveillance\" wird durch das Robert Koch-Institut und die Betreiber der AKTIN-Infrastruktur und des Notaufnahmeregisters bereitgestellt. Der Datensatz beinhaltet aggregierte Routinedaten aus deutschen Notaufnahmen zur syndromischen Überwachung von akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen (ILI), Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE), gastrointestinale Infektionen (GI) und schwere akute respiratorische Infektionen (SARI), sowie hitzeassoziierte Notaunfahmevorstellungen (HEAT). Dabei wird der relative Anteil dieser Erkrankungen an der Gesamtzahl der Notaufnahmevorstellungen sowie die berechneten Erwartungswerte und Prädiktionsintervalle ausgewiesen. Die Daten sind nach Notaufnahmetypen und Altersgruppen aggregiert. Damit bietet der Datensatz eine wertvolle Ressource für die Forschung im Bereich der Notfallmedizin und der Überwachung akuter Gesundheitsereignisse in Deutschland.</p>",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-07-12",
+  "publication_date": "2026-07-13",
   "creators": [
     {
       "person_or_org": {
@@ -21,7 +21,7 @@
     {
       "person_or_org": {
         "type": "organizational",
-        "name": "AKTIN-Notaufnahmeregister"
+        "name": "AKTIN-Infrastruktur und das Notaufnahmeregister"
       }
     }
   ],
@@ -167,6 +167,9 @@
       "affiliations": [
         {
           "name": "Otto-von-Guericke Universität Magdeburg"
+        },
+        {
+          "name": "AKTIN Research Group"
         }
       ],
       "role": {
@@ -188,6 +191,9 @@
       "affiliations": [
         {
           "name": "Otto-von-Guericke Universität Magdeburg"
+        },
+        {
+          "name": "AKTIN Research Group"
         }
       ],
       "role": {
@@ -209,6 +215,9 @@
       "affiliations": [
         {
           "name": "Otto-von-Guericke Universität Magdeburg"
+        },
+        {
+          "name": "AKTIN Research Group"
         }
       ],
       "role": {
@@ -230,6 +239,9 @@
       "affiliations": [
         {
           "name": "Otto-von-Guericke Universität Magdeburg"
+        },
+        {
+          "name": "AKTIN Research Group"
         }
       ],
       "role": {
@@ -251,6 +263,9 @@
       "affiliations": [
         {
           "name": "Otto-von-Guericke Universität Magdeburg"
+        },
+        {
+          "name": "AKTIN Research Group"
         }
       ],
       "role": {
@@ -266,6 +281,9 @@
       "affiliations": [
         {
           "name": "Universitätsklinik RWTH Aachen"
+        },
+        {
+          "name": "AKTIN Research Group"
         }
       ],
       "role": {
@@ -287,6 +305,9 @@
       "affiliations": [
         {
           "name": "Universitätsklinik RWTH Aachen"
+        },
+        {
+          "name": "AKTIN Research Group"
         }
       ],
       "role": {
@@ -308,6 +329,9 @@
       "affiliations": [
         {
           "name": "Universitätsklinik RWTH Aachen"
+        },
+        {
+          "name": "AKTIN Research Group"
         }
       ],
       "role": {
@@ -329,6 +353,9 @@
       "affiliations": [
         {
           "name": "Universitätsklinik RWTH Aachen"
+        },
+        {
+          "name": "AKTIN Research Group"
         }
       ],
       "role": {
@@ -350,6 +377,9 @@
       "affiliations": [
         {
           "name": "Universitätsklinik RWTH Aachen"
+        },
+        {
+          "name": "AKTIN Research Group"
         }
       ],
       "role": {
@@ -358,10 +388,10 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2026-07-12",
+  "version": "2026-07-13",
   "dates": [
     {
-      "date": "2026-07-12T00:00:00+02:00",
+      "date": "2026-07-13T00:00:00+02:00",
       "type": {
         "id": "created"
       },
@@ -480,6 +510,12 @@
     },
     {
       "subject": "Epidemiology"
+    },
+    {
+      "subject": "Extreme Hitze"
+    },
+    {
+      "subject": "Extreme Heat"
     }
   ],
   "custom_fields": {

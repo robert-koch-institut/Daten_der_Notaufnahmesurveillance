@@ -2,17 +2,18 @@ cff-version: 1.2.0
 type: dataset
 title: Daten der Notaufnahmesurveillance
 abstract: Der Datensatz "Daten der Notaufnahmesurveillance" wird durch das Robert
-  Koch-Institut und das AKTIN-Notaufnahmeregister bei Krankenhausaufnahmen bereitgestellt.
-  Der Datensatz beinhaltet aggregierte Routinedaten aus deutschen Notaufnahmen zur
-  syndromischen Überwachung von akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen
-  (ILI), Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE),
-  gastrointestinale Infektionen (GI) und schwere akute respiratorische Infektionen
-  (SARI). Dabei wird der relative Anteil dieser Erkrankungen an der Gesamtzahl der
-  Notaufnahmevorstellungen sowie die berechneten Erwartungswerte und Prädiktionsintervalle
-  ausgewiesen. Die Daten sind nach Notaufnahmetypen und Altersgruppen aggregiert.
-  Damit bietet der Datensatz eine wertvolle Ressource für die Forschung im Bereich
-  der Notfallmedizin und der Überwachung akuter Gesundheitsereignisse in Deutschland.
-date-released: '2026-07-12'
+  Koch-Institut und die Betreiber der AKTIN-Infrastruktur und des Notaufnahmeregisters
+  bereitgestellt. Der Datensatz beinhaltet aggregierte Routinedaten aus deutschen
+  Notaufnahmen zur syndromischen Überwachung von akuten Erkrankungen. Dazu zählen
+  grippeähnliche Erkrankungen (ILI), Coronavirus-Erkrankungen (COVID-19), akute respiratorische
+  Erkrankungen (ARE), gastrointestinale Infektionen (GI) und schwere akute respiratorische
+  Infektionen (SARI), sowie hitzeassoziierte Notaunfahmevorstellungen (HEAT). Dabei
+  wird der relative Anteil dieser Erkrankungen an der Gesamtzahl der Notaufnahmevorstellungen
+  sowie die berechneten Erwartungswerte und Prädiktionsintervalle ausgewiesen. Die
+  Daten sind nach Notaufnahmetypen und Altersgruppen aggregiert. Damit bietet der
+  Datensatz eine wertvolle Ressource für die Forschung im Bereich der Notfallmedizin
+  und der Überwachung akuter Gesundheitsereignisse in Deutschland.
+date-released: '2026-07-13'
 keywords:
   - Notaufnahmesurveillance
   - Notaufnahmevorstellungen
@@ -44,14 +45,16 @@ keywords:
   - Epidemiologie
   - Public health surveillance
   - Epidemiology
+  - Extreme Hitze
+  - Extreme Heat
 message: Cite me!
 url: https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance
 license: CC-BY-4.0
-doi: 10.5281/zenodo.21321736
-version: '2026-07-12T00:00:00+02:00'
+doi: 10.5281/zenodo.21337598
+version: '2026-07-13T00:00:00+02:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
     website: https://www.rki.de/
-  - name: AKTIN-Notaufnahmeregister
-    website: http://aktin.org/
+  - name: AKTIN-Infrastruktur und das Notaufnahmeregister
+    website: https://www.netzwerk-universitaetsmedizin.de/plattformen/aktin

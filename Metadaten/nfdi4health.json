@@ -6,7 +6,7 @@
     "descriptions": [
       {
         "language": "DE (German)",
-        "text": "Der Datensatz \"Daten der Notaufnahmesurveillance\" wird durch das Robert Koch-Institut und das AKTIN-Notaufnahmeregister bei Krankenhausaufnahmen bereitgestellt. Der Datensatz beinhaltet aggregierte Routinedaten aus deutschen Notaufnahmen zur syndromischen Überwachung von akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen (ILI), Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE), gastrointestinale Infektionen (GI) und schwere akute respiratorische Infektionen (SARI). Dabei wird der relative Anteil dieser Erkrankungen an der Gesamtzahl der Notaufnahmevorstellungen sowie die berechneten Erwartungswerte und Prädiktionsintervalle ausgewiesen. Die Daten sind nach Notaufnahmetypen und Altersgruppen aggregiert. Damit bietet der Datensatz eine wertvolle Ressource für die Forschung im Bereich der Notfallmedizin und der Überwachung akuter Gesundheitsereignisse in Deutschland."
+        "text": "Der Datensatz \"Daten der Notaufnahmesurveillance\" wird durch das Robert Koch-Institut und die Betreiber der AKTIN-Infrastruktur und des Notaufnahmeregisters bereitgestellt. Der Datensatz beinhaltet aggregierte Routinedaten aus deutschen Notaufnahmen zur syndromischen Überwachung von akuten Erkrankungen. Dazu zählen grippeähnliche Erkrankungen (ILI), Coronavirus-Erkrankungen (COVID-19), akute respiratorische Erkrankungen (ARE), gastrointestinale Infektionen (GI) und schwere akute respiratorische Infektionen (SARI), sowie hitzeassoziierte Notaunfahmevorstellungen (HEAT). Dabei wird der relative Anteil dieser Erkrankungen an der Gesamtzahl der Notaufnahmevorstellungen sowie die berechneten Erwartungswerte und Prädiktionsintervalle ausgewiesen. Die Daten sind nach Notaufnahmetypen und Altersgruppen aggregiert. Damit bietet der Datensatz eine wertvolle Ressource für die Forschung im Bereich der Notfallmedizin und der Überwachung akuter Gesundheitsereignisse in Deutschland."
       }
     ],
     "titles": [
@@ -17,7 +17,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.21321736",
+        "identifier": "10.5281/zenodo.21337598",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -130,6 +130,14 @@
       {
         "label": "Epidemiology",
         "code": "http://id.nlm.nih.gov/mesh/D004813"
+      },
+      {
+        "label": "Extreme Hitze",
+        "code": "http://id.nlm.nih.gov/mesh/D055874"
+      },
+      {
+        "label": "Extreme Heat",
+        "code": "http://id.nlm.nih.gov/mesh/D055874"
       }
     ],
     "languages": [
@@ -145,7 +153,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-07-12"
+      "version": "2026-07-13"
     },
     "webpage": "https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance",
     "contributors": [
@@ -171,11 +179,11 @@
         "nameType": "Organisational",
         "affiliations": [
           {
-            "name": "AKTIN-Notaufnahmeregister"
+            "name": "AKTIN-Infrastruktur und das Notaufnahmeregister"
           }
         ],
         "organisational": {
-          "name": "AKTIN-Notaufnahmeregister",
+          "name": "AKTIN-Infrastruktur und das Notaufnahmeregister",
           "type": "Creator/Author"
         }
       },
