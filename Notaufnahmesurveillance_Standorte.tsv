@@ -49,6 +49,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 260620431	Universitätsklinikum Marburg	central	Umfassende Versorgung	Hessen	06	50.81526897788	8.805859994882
 900000011	Charite Campus Virchow Klinikum	central	Umfassende Versorgung	Berlin	11	52.54211	13.34309
 900000012	Charite Campus Benjamin Franklin	central	Umfassende Versorgung	Berlin	11	52.44156	13.32046
+261300130	Kreiskrankenhaus Demmin	central	Erweiterte Versorgung	Mecklenburg-Vorpommern	13	53.902698241062	13.041572767388
 900000014	Kindernotaufnahme Memmingen	pediatric	Umfassende Versorgung	Bayern	09	47.9828	10.16906
 261400687	Elblandklinikum Riesa	central	Basisnotfallversorgung	Sachsen	14	51.296177141949	13.310297012313
 261400870	Elblandklinikum Radebeul	central	Basisnotfallversorgung	Sachsen	14	51.108144839837	13.651184320434
@@ -75,8 +76,15 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 260570306	Kreiskliniken Herford-Bünde, Klinikum Herford	central	Umfassende Versorgung	Nordrhein-Westfalen	05	52.126395097108	8.700473427789
 260833531	Ortenau Klinikum, Standort Offenburg	central	Erweiterte Versorgung	Baden-Württemberg	08	48.476152222025	7.954721689257
 260833520	Ortenau Klinikum, Standort Lahr	central	Erweiterte Versorgung	Baden-Württemberg	08	48.344197339318	7.88605231045
+260930050	Krankenhaus Barmherzigen Brüder Regensburg	central	Umfassende Versorgung	Bayern	09	49.01647	12.06457
 260950567	Uniklinikum Erlangen	central	Umfassende Versorgung	Bayern	09	49.600814436059	11.010412752612
 900000022	Universitätsklinikum OWL der Universität Bielefeld, Standort Klinikum Bielefeld Mitte	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	52.01404	8.54462
 260530604	St.-Antonius-Hospital Eschweiler	central	Erweiterte Versorgung	Nordrhein-Westfalen	05	50.818603278644	6.264195620997
 260830048	St. Josefskrankenhaus Freiburg	central	Erweiterte Versorgung	Baden-Württemberg	08	48.001809236905	7.851977527125
+261401030	Universitätsklinikum Carl Gustav Carus Dresden	central	Umfassende Versorgung	Sachsen	14	51.056819087868	13.781290769675
+900000023	Pädiatrie Universitätsklinikum Carl Gustav Carus Dresden	pediatric	Umfassende Versorgung	Sachsen	14	51.0584802204288	13.7815135234191
+900000024	Pädiatrie Klinikum Oldenburg	pediatric	Erweiterte Versorgung	Niedersachsen	03	53.1116540074757	8.21430704425063
+261500702	Universitätsklinikum Halle (Saale)	central	Umfassende Versorgung	Sachsen-Anhalt	15	51.501065103479	11.934980928963
 900000025	Kindernotaufnahme Universitätsklinikum Bonn	pediatric	Umfassende Versorgung	Nordrhein-Westfalen	05	50.7011980441821	7.10537650950911
+900000026	Neurologische Notaufnahme Universitätsklinikum Bonn	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.6962412608154	7.10484045664789
+900000028	Pädiatrie Klinikum Aschaffenburg-Alzenau	pediatric	Umfassende Versorgung	Bayern	09	49.9779901157892	9.18730174854975
