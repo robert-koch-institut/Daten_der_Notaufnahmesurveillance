@@ -4,12 +4,18 @@
       "name": "date",
       "type": "date",
       "description": "Datum; JJJJ entspricht dem Jahr, MM dem Monat und TT dem Tag",
-      "format": "%Y-%m-%d"
+      "format": "%Y-%m-%d",
+      "missingValues": [
+        ""
+      ]
     },
     {
       "name": "ed_type",
       "type": "string",
       "description": "Notaufnahmetyp (`all`: alle Notaufnahmen, `central`: Zentrale Notaufnahme, _pediatric_: Kindernotaufnahme)",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "enum": [
           "all",
@@ -22,6 +28,9 @@
       "name": "age_group",
       "type": "string",
       "description": "Altersgruppe (`00+`: alle Altersgruppen, `0-4`: 0-4 Jahre, ...)",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "enum": [
           "00+",
@@ -39,14 +48,18 @@
     {
       "name": "syndrome",
       "type": "string",
-      "description": "Syndromdefinitionen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI), siehe [Boender et al. 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS). Für gastrointestinale Infektionen (GI) siehe [Baum et al. 2023](https://doi.org/10.1101/2023.11.28.23298985).",
+      "description": "Syndromdefinitionen für akute respiratorische Erkrankungen (ARE/ARI), schwere akute respiratorische Infektionen (SARI) und grippeähnliche Erkrankungen (Influenza-like-illness, ILI), siehe [Boender et al. 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.27.2100865?TRACK=RSS). Für gastrointestinale Infektionen (GI) siehe [Baum et al. 2023](https://doi.org/10.1101/2023.11.28.23298985). Für hitzeassoziierte Notaufnahmevorstellungen siehe [Heimrath et al. 2026](https://doi.org/10.2196/82267). ",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "enum": [
           "ARI",
           "SARI",
           "ILI",
           "COVID",
-          "GI"
+          "GI",
+          "HEAT"
         ]
       }
     },
@@ -54,6 +67,9 @@
       "name": "relative_cases",
       "type": "number",
       "description": "Relativer Anteil Notaufnahmevorstellungen an diesem Tag mit gegebenem Syndrom an allen Notaufnahmevorstellungen in gegebenen Notaufnahmen von gegebenem Typ",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "minimum": 0
       }
@@ -63,6 +79,7 @@
       "type": "number",
       "description": "Gleitender 7-Tage Durchschnitt des relativen Anteil von Fällen des Syndroms an den Gesamtvorstellungen",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -74,6 +91,7 @@
       "type": "number",
       "description": "Erwartungswert des relativen Anteils von Fällen des Syndroms an den Gesamtvorstellungen",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -85,6 +103,7 @@
       "type": "number",
       "description": "Untere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -96,6 +115,7 @@
       "type": "number",
       "description": "Obere Grenze des 80%-Prädiktionsintervalls des Erwartungswerts",
       "missingValues": [
+        "",
         "NA"
       ],
       "constraints": {
@@ -106,6 +126,9 @@
       "name": "ed_count",
       "type": "integer",
       "description": "Anzahl von eingeschlossenen Notaufnahmen an diesem Tag in den Notaufnahmen vom gegebenen Notaufnahmetyp",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "minimum": 0
       }

@@ -3,12 +3,18 @@
     {
       "name": "ik_number",
       "type": "string",
-      "description": "ID der Notaufnahme"
+      "description": "ID der Notaufnahme",
+      "missingValues": [
+        ""
+      ]
     },
     {
       "name": "ed_name",
       "type": "string",
       "description": "Name der Notaufnahme",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true
       }
@@ -17,6 +23,9 @@
       "name": "ed_type",
       "type": "string",
       "description": "Notaufnahmetyp (`central`: Zentrale Notaufnahme, `pediatric`: Kindernotaufnahme)",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "enum": [
           "central",
@@ -28,6 +37,9 @@
       "name": "level_of_care",
       "type": "string",
       "description": "[Versorgungsstufe](https://www.g-ba.de/downloads/62-492-2340/Not-Kra-R_2020-11-20_iK-2020-11-01.pdf) der Notaufnahme (deutsch)",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "enum": [
           "Basisnotfallversorgung",
@@ -40,6 +52,9 @@
       "name": "state",
       "type": "string",
       "description": "Bundesland (deutsch)",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "enum": [
           "Baden-Württemberg",
@@ -65,6 +80,9 @@
       "name": "state_id",
       "type": "string",
       "description": "[Länderschlüssel](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel) des Bundeslandes",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "enum": [
           "01",
@@ -90,6 +108,9 @@
       "name": "latitude",
       "type": "number",
       "description": "Breitengrad des Standorts der Notaufnahme",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "minimum": 0
       }
@@ -98,6 +119,9 @@
       "name": "longitude",
       "type": "number",
       "description": "Längengrad des Standorts der Notaufnahme",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "minimum": 0
       }
