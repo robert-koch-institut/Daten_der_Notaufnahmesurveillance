@@ -88,3 +88,4 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000025	Kindernotaufnahme Universitätsklinikum Bonn	pediatric	Umfassende Versorgung	Nordrhein-Westfalen	05	50.7011980441821	7.10537650950911
 900000026	Neurologische Notaufnahme Universitätsklinikum Bonn	central	Umfassende Versorgung	Nordrhein-Westfalen	05	50.6962412608154	7.10484045664789
 900000028	Pädiatrie Klinikum Aschaffenburg-Alzenau	pediatric	Umfassende Versorgung	Bayern	09	49.9779901157892	9.18730174854975
+900000029	Pädiatrie Universitätsmedizin Göttingen 	pediatric	Umfassende Versorgung	Niedersachsen	03	51.5500042125701	9.94526162511238
