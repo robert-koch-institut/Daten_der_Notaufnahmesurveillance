@@ -27,7 +27,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch-Institut, & AKTIN-Infrastruktur und das Notaufnahmeregister. (2026). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.22734896](https://doi.org/10.5281/zenodo.22734896)
+Robert Koch-Institut, & AKTIN-Infrastruktur und das Notaufnahmeregister. (2026). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.22748550](https://doi.org/10.5281/zenodo.22748550)
 <!-- CITATION_END -->
 
 
@@ -129,8 +129,6 @@ Die Datei [`Notaufnahmesurveillance_Standorte.tsv`](https://github.com/robert-ko
 
 Die Datei [Notaufnahmesurveillance_Standorte.tsv](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Standorte.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Notaufnahmesurveillance_Standorte.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/tableschema_Notaufnahmesurveillance_Standorte.json) hinterlegt:
 
-> [tableschema_Notaufnahmesurveillance_Standorte.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/tableschema_Notaufnahmesurveillance_Standorte.json)
-
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable      | Typ    | Ausprägungen                                                                                       | Beschreibung                                                                                                                   |
 |:--------------|:-------|:---------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
@@ -162,8 +160,6 @@ Die Datei [Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv](https://github.com/r
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Notaufnahmesurveillance_Zeitreihen_Syndrome", "lang": "de"} -->
 
 Die Datei [Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/tableschema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json) hinterlegt:
-
-> [tableschema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/Metadaten/schemas/tableschema_Notaufnahmesurveillance_Zeitreihen_Syndrome.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable               | Typ     | Ausprägungen                                                         | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -249,5 +245,5 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 
 Der Datensatz "Daten der Notaufnahmesurveillance" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/LIZENZ) Datei des Datensatzes.  
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/Daten_der_Notaufnahmesurveillance/blob/main/LIZENZ) Datei des Datensatzes.  
 <!-- FOOTER_END -->
