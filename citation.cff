@@ -14,7 +14,7 @@ abstract: >-
   sind nach Notaufnahmetypen und Altersgruppen aggregiert. Damit bietet der Datensatz
   eine wertvolle Ressource für die Forschung im Bereich der Notfallmedizin und der
   Überwachung akuter Gesundheitsereignisse in Deutschland.
-date-released: '2026-09-22'
+date-released: '2026-09-23'
 keywords:
   - Notaufnahmesurveillance
   - Notaufnahmevorstellungen
@@ -51,8 +51,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/Daten_der_Notaufnahmesurveillance
 license: CC-BY-4.0
-doi: 10.5281/zenodo.22896496
-version: '2026-09-22'
+doi: 10.5281/zenodo.22916850
+version: '2026-09-23'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
