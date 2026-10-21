@@ -50,6 +50,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000011	Charite Campus Virchow Klinikum	central	Umfassende Versorgung	Berlin	11	52.54211	13.34309
 900000012	Charite Campus Benjamin Franklin	central	Umfassende Versorgung	Berlin	11	52.44156	13.32046
 261300130	Kreiskrankenhaus Demmin	central	Erweiterte Versorgung	Mecklenburg-Vorpommern	13	53.902698241062	13.041572767388
+260610279	Universitätsklinikum Gießen	central	Umfassende Versorgung	Hessen	06	50.576552378551	8.664676129802
 900000014	Kindernotaufnahme Memmingen	pediatric	Umfassende Versorgung	Bayern	09	47.9828	10.16906
 261400687	Elblandklinikum Riesa	central	Basisnotfallversorgung	Sachsen	14	51.296177141949	13.310297012313
 261400870	Elblandklinikum Radebeul	central	Basisnotfallversorgung	Sachsen	14	51.108144839837	13.651184320434
