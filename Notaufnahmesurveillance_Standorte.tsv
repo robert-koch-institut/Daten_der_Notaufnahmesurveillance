@@ -32,6 +32,7 @@ ik_number	ed_name	ed_type	level_of_care	state	state_id	latitude	longitude
 900000001	UKSH, Standort Lübeck	central	Umfassende Versorgung	Schleswig-Holstein	01	53.836539	10.709323
 900000002	UKSH, Standort Kiel	central	Umfassende Versorgung	Schleswig-Holstein	01	54.330363	10.142063
 900000003	Campus Charite Mitte	central	Umfassende Versorgung	Berlin	11	52.52687	13.37958
+900000004	Charite Campus Virchow-Klinikum Kindernotaufnahme	pediatric	Umfassende Versorgung	Berlin	11	52.54211	13.34309
 900000005	LMU Klinikum Großhadern	central	Umfassende Versorgung	Bayern	09	48.110833	11.469444
 900000006	LMU Klinikum Innenstadt	central	Umfassende Versorgung	Bayern	09	48.13298	11.56193
 260811498	Kliniken Landkreis Heidenheim, Heidenheim an der Benz	central	Umfassende Versorgung	Baden-Württemberg	08	48.672888376689	10.140581488618
