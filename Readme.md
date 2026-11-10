@@ -27,7 +27,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch-Institut, & AKTIN-Infrastruktur und das Notaufnahmeregister. (2026). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.24082674](https://doi.org/10.5281/zenodo.24082674)
+Robert Koch-Institut, & AKTIN-Infrastruktur und das Notaufnahmeregister. (2026). Daten der Notaufnahmesurveillance [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.24107962](https://doi.org/10.5281/zenodo.24107962)
 <!-- CITATION_END -->
 
 
